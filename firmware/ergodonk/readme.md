@@ -14,14 +14,17 @@ Make example for this keyboard (after setting up your build environment):
 
 Flashing example for this keyboard:
 
-    make ergodonk_v2:default:flash
+    make ergodonk:default:flash
     For EE_HANDS (Extra steps required on ARM @todo maybe pull this?)
-    make ergodonk_v2:default:flash:dfu-util-split-left
-    make ergodonk_v2:default:flash:dfu-util-split-right
+    make ergodonk:default:flash:dfu-util-split-left
+    make ergodonk:default:flash:dfu-util-split-right
 
 
     qmk compile -kb ergodonk_v2 -km default
 
+    c2json (Must run from inside keymap folder)
+    `qmk c2json -kb ergodonk -km default keymap.c`
+    
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
 ## Bootloader

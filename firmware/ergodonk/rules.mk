@@ -22,4 +22,4 @@ NKRO_ENABLE = yes
 # Yay via!
 VIA_ENABLE = yes
 # link time optimization - slower compile but smaller file size.
-LTO_ENABLE = yes
+LTO_ENABLE = no

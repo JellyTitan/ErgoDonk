@@ -5,36 +5,55 @@
 
 #include "config_common.h"
 
-#define VENDOR_ID 0x4A54 // “JT” = JellyTitan.
-#define PRODUCT_ID 0x0001 // Sequential numbering system.
-#define MANUFACTURER    JellyTitan
+// VID and PID moved to .json
+// #define VENDOR_ID 0x4A54 // “JT” = JellyTitan.
+// #define PRODUCT_ID 0x0001 // Sequential numbering system.
+// #define MANUFACTURER    JellyTitan
 #define PRODUCT         Ergodonk
-#define DESCRIPTION     Ergodonk
 
 /* key matrix size */
 // Rows are doubled-up
 #define MATRIX_ROWS 14
 #define MATRIX_COLS 10
-#define MATRIX_COL_PINS   { B8, B7, B6, B5, B4, A0, C15, C14, C13} 
+#define MATRIX_COL_PINS   { B8, B7, B10, B5, B4, A0, C15, C14, C13, NO_PIN} 
 #define MATRIX_ROW_PINS  { B12, B13, B14, B15, A8, A15, B3 }
 // RH has one more col then LH.
-#define MATRIX_COL_PINS_RIGHT { C13, C14, C15, A0, B4, B5, B6, B7, B8, B9 }
+#define MATRIX_COL_PINS_RIGHT { C13, C14, C15, A0, B4, B5, B10, B7, B8, B9 }
 #define MATRIX_ROW_PINS_RIGHT { B12, B13, B14, B15, A8, A15, B3 }
-#define UNUSED_PINS { A1, A2, A3, A9, A10, A11, A12}
+// #define UNUSED_PINS { A1, A2, A3, A9, A10, A11, A12}
 
+// @todo - what does this do? It was in zv48 . . .
+// #define MATRIX_IO_DELAY 5
+#define SPLIT_USB_DETECT
 #define SPLIT_HAND_PIN B0  // high = left, low = right
 // @todo - this is a better way to determine handedness:
 // #define SPLIT_HAND_MATRIX_GRID D0, F1
 
-/* Set 0 if debouncing isn't needed */
-// #define DEBOUNCE 5
+#define SOFT_SERIAL_PIN B6
+
+// If you’re having issues with serial communication, you can change this value, 
+// as it controls the communication speed for serial. 
+// The default is 1, and the possible values are:
+// 0: about 189kbps (Experimental only)
+// 1: about 137kbps (default)
+// 2: about 75kbps
+// 3: about 39kbps
+// 4: about 26kbps
+// 5: about 20kbps
+#define SELECT_SOFT_SERIAL_SPEED 2
+
+// This sets the maximum number of failed communication attempts (one per scan cycle) 
+// from the master part before it assumes that no slave part is connected. 
+// This makes it possible to use a master part without the slave part connected.
+// Set to 0 to disable the disconnection check altogether.
+#define SPLIT_MAX_CONNECTION_ERRORS 0
+
+/* Set 0 if debouncing isn't needed  - cribbed from zv48*/
+#define DEBOUNCE 5
+
+
 #define ENCODERS_PAD_A { A13 }
 #define ENCODERS_PAD_B { A14 }
-#define SOFT_SERIAL_PIN B10
-#define SELECT_SOFT_SERIAL_SPEED 0
-// #undef SERIAL_USART_TX_PIN
-// #define SERIAL_USART_TX_PIN B10
-
 
 #define SOLENOID_DEFAULT_DWELL 12 
 #define SOLENOID_MAX_DWELL 100
@@ -54,7 +73,7 @@
 // @todo this is only needed when using SPLIT_HAND_PIN or EE_HANDS
 // https://docs.qmk.fm/#/feature_bootmagic?id=split-keyboards
 #define BOOTMAGIC_LITE_ROW_RIGHT 7
-#define BOOTMAGIC_LITE_COLUMN_RIGHT 9
+#define BOOTMAGIC_LITE_COLUMN_RIGHT 7
 
 // #define XXX KC_NO
 #define XXX KC_NO
