@@ -55,15 +55,15 @@
 #define ENCODERS_PAD_A { A13 }
 #define ENCODERS_PAD_B { A14 }
 
-#define SOLENOID_DEFAULT_DWELL 12 
-#define SOLENOID_MAX_DWELL 100
-#define SOLENOID_MIN_DWELL 4
 #define SOLENOID_PIN B1
-// #define SOLENOID_DEFAULT_DWELL 4
-// #define SOLENOID_MIN_DWELL 4
-// #define HAPTIC_OFF_IN_LOW_POWER 1
+#define SOLENOID_ACTIVE true
+#define SOLENOID_DEFAULT_DWELL 12 // default is 12.
+#define SOLENOID_DWELL_STEP_SIZE 2         //      |The step size to use when `HPT_DWL*` keycodes are sent.
+#define SOLENOID_MIN_DWELL 4 // 4 is default
+#define SOLENOID_MAX_DWELL 100 // 100 is default
+
 // Prevents thumper on mods like shift/Ctrl/Alt
-#define NO_HAPTIC_MOD
+// #define NO_HAPTIC_MOD
 
 // Bootmagic lite
 // LH Hold ESC on boot to enter bootloader
@@ -74,6 +74,28 @@
 // https://docs.qmk.fm/#/feature_bootmagic?id=split-keyboards
 #define BOOTMAGIC_LITE_ROW_RIGHT 7
 #define BOOTMAGIC_LITE_COLUMN_RIGHT 7
+
+/* If you type too fast, it confuses the Mod key combos. This resolves it: */
+#define IGNORE_MOD_TAP_INTERRUPT
+/* Set tapdance speed */
+#define TAPPING_TERM 210
+
+/* Allows for the setting of constant mouse speed levels. */
+/* Delay between pressing a movement key and cursor movement */
+#define MOUSEKEY_DELAY 10
+/* Time between cursor movements in milliseconds */
+#define MOUSEKEY_INTERVAL 16
+/* Step size */
+#define MOUSEKEY_MOVE_DELTA 8
+/* Maximum cursor speed at which acceleration stops */
+#define MOUSEKEY_MAX_SPEED 2
+/* Time until maximum cursor speed is reached */
+#define MOUSEKEY_TIME_TO_MAX 40
+/* Maximum number of scroll steps per scroll action */
+#define MOUSEKEY_WHEEL_MAX_SPEED 42
+/* Time until maximum scroll speed is reached */
+#define MOUSEKEY_WHEEL_TIME_TO_MAX 15
+
 
 // #define XXX KC_NO
 #define XXX KC_NO

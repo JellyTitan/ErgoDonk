@@ -22,4 +22,6 @@ NKRO_ENABLE = yes
 # Yay via!
 VIA_ENABLE = yes
 # link time optimization - slower compile but smaller file size.
-LTO_ENABLE = no
+LTO_ENABLE = yes
+# Lets you use escape and tilde from the same key.
+GRAVE_ESC_ENABLE = yes
