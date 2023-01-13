@@ -1,0 +1,6 @@
+[submodule "ergodonk_pcb/Kicad-STM32"]
+	path = ergodonk_pcb/Kicad-STM32
+	url = https://github.com/piit79/Kicad-STM32.git
+[submodule "ergodonk_pcb/kbd"]
+	path = ergodonk_pcb/kbd
+	url = https://github.com/foostan/kbd
