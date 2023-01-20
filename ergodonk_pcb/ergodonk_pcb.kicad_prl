@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 31,
-    "active_layer_preset": "All Layers",
-    "auto_track_width": true,
+    "active_layer": 0,
+    "active_layer_preset": "",
+    "auto_track_width": false,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -14,17 +14,17 @@
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": true,
+      "dimensions": false,
       "footprints": true,
-      "graphics": true,
-      "keepouts": true,
+      "graphics": false,
+      "keepouts": false,
       "lockedItems": true,
-      "otherItems": true,
-      "pads": true,
-      "text": true,
+      "otherItems": false,
+      "pads": false,
+      "text": false,
       "tracks": true,
       "vias": true,
-      "zones": true
+      "zones": false
     },
     "visible_items": [
       0,
@@ -37,7 +37,6 @@
       9,
       10,
       11,
-      12,
       13,
       14,
       15,
@@ -63,7 +62,7 @@
       36
     ],
     "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "ergodonk_pcb.kicad_prl",

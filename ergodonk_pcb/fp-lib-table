@@ -6,4 +6,6 @@
   (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/Kicad-STM32/Footprints")(options "")(descr ""))
   (lib (name "ergodonk_kicad_library")(type "KiCad")(uri "/Users/ryanrayneff/Documents/ergodonk/ergodonk_kicad_library")(options "")(descr ""))
   (lib (name "MUR340S")(type "KiCad")(uri "${KIPRJMOD}/MUR340S")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "KiCad-RP-Pico")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico")(options "")(descr ""))
 )
