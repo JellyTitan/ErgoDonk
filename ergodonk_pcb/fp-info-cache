@@ -1,4 +1,4 @@
-20702488066728509
+20704162422159968
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87046,6 +87046,13 @@ CherryMX_Hotswap_1.75u_ergodonk
 2
 ergodonk_kicad_library
 CherryMX_Hotswap_2u_ergodonk
+
+
+0
+2
+2
+ergodonk_kicad_library
+CherryMX_Hotswap_2u_ergodonk_Stabs
 
 
 0

@@ -3421,7 +3421,7 @@
     (uuid 2b4de526-ee32-49c4-ba40-3a3a92ad67bc)
     (property "Reference" "SWLH56" (id 0) (at 350.52 146.05 0))
     (property "Value" "SW_PUSH" (id 1) (at 350.52 148.59 0))
-    (property "Footprint" "ergodonk_kicad_library:CherryMX_Hotswap_2u_ergodonk" (id 2) (at 350.52 153.67 0)
+    (property "Footprint" "ergodonk_kicad_library:CherryMX_Hotswap_2u_ergodonk_Stabs" (id 2) (at 350.52 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 350.52 153.67 0))
@@ -3908,7 +3908,7 @@
     (uuid 5b43806e-8d2f-432c-a63b-c66018a18e93)
     (property "Reference" "SWLH57" (id 0) (at 372.11 146.05 0))
     (property "Value" "SW_PUSH" (id 1) (at 372.11 148.59 0))
-    (property "Footprint" "ergodonk_kicad_library:CherryMX_Hotswap_2u_ergodonk" (id 2) (at 372.11 153.67 0)
+    (property "Footprint" "ergodonk_kicad_library:CherryMX_Hotswap_2u_ergodonk_Stabs" (id 2) (at 372.11 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 372.11 153.67 0))
@@ -4366,7 +4366,7 @@
     (uuid a46a17f8-62ac-492f-b055-fc52c75dae86)
     (property "Reference" "SWLH41" (id 0) (at 242.57 124.46 0))
     (property "Value" "SW_PUSH" (id 1) (at 242.57 127 0))
-    (property "Footprint" "ergodonk_kicad_library:CherryMX_Hotswap_2u_ergodonk" (id 2) (at 242.57 132.08 0)
+    (property "Footprint" "ergodonk_kicad_library:CherryMX_Hotswap_2u_ergodonk_Stabs" (id 2) (at 242.57 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 242.57 132.08 0))
@@ -5493,7 +5493,7 @@
       (reference "SWLH38") (unit 1) (value "SW_PUSH") (footprint "ergodonk_kicad_library:CherryMX_Hotswap")
     )
     (path "/a46a17f8-62ac-492f-b055-fc52c75dae86"
-      (reference "SWLH41") (unit 1) (value "SW_PUSH") (footprint "ergodonk_kicad_library:CherryMX_Hotswap_2u_ergodonk")
+      (reference "SWLH41") (unit 1) (value "SW_PUSH") (footprint "ergodonk_kicad_library:CherryMX_Hotswap_2u_ergodonk_Stabs")
     )
     (path "/c15dac7b-0e67-4348-b1cc-38f890301c39"
       (reference "SWLH42") (unit 1) (value "SW_PUSH") (footprint "ergodonk_kicad_library:CherryMX_Hotswap")
@@ -5529,10 +5529,10 @@
       (reference "SWLH54") (unit 1) (value "SW_PUSH") (footprint "ergodonk_kicad_library:CherryMX_Hotswap")
     )
     (path "/2b4de526-ee32-49c4-ba40-3a3a92ad67bc"
-      (reference "SWLH56") (unit 1) (value "SW_PUSH") (footprint "ergodonk_kicad_library:CherryMX_Hotswap_2u_ergodonk")
+      (reference "SWLH56") (unit 1) (value "SW_PUSH") (footprint "ergodonk_kicad_library:CherryMX_Hotswap_2u_ergodonk_Stabs")
     )
     (path "/5b43806e-8d2f-432c-a63b-c66018a18e93"
-      (reference "SWLH57") (unit 1) (value "SW_PUSH") (footprint "ergodonk_kicad_library:CherryMX_Hotswap_2u_ergodonk")
+      (reference "SWLH57") (unit 1) (value "SW_PUSH") (footprint "ergodonk_kicad_library:CherryMX_Hotswap_2u_ergodonk_Stabs")
     )
     (path "/28f93af9-5b22-42b8-823f-43d101fe16ea"
       (reference "SWLH58") (unit 1) (value "SW_PUSH") (footprint "ergodonk_kicad_library:CherryMX_Hotswap")
