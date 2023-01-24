@@ -1,4 +1,4 @@
-20704162422159968
+20705836840809980
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87142,6 +87142,13 @@ rotary encoder
 0
 9
 5
+ergodonk_kicad_library
+sofle_choc_miniE
+
+
+0
+12
+6
 ergodonk_kicad_library
 uxcell a14092600ux0438 solenoid
 
