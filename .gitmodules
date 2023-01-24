@@ -1,0 +1,12 @@
+[submodule "ergodonk_pcb/Kicad-STM32"]
+	path = ergodonk_pcb/Kicad-STM32
+	url = https://github.com/piit79/Kicad-STM32.git
+[submodule "ergodonk_pcb/kbd"]
+	path = ergodonk_pcb/kbd
+	url = https://github.com/foostan/kbd
+[submodule "ergodonk_pcb/Keebio-Parts.pretty"]
+	path = ergodonk_pcb/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "ergodonk_pcb/KiCad-RP-Pico"]
+	path = ergodonk_pcb/KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico.git
