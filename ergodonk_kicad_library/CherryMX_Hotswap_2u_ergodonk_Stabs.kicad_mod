@@ -56,36 +56,60 @@
   (pad "" np_thru_hole circle (at 11.938 8.255 180) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp b86efa61-db25-4811-9204-b4c658784756))
   (pad "1" smd rect (at -7.085 -2.54 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 68c8437e-3c53-4fc1-bca6-d2549ae1e44a))
   (pad "2" smd rect (at 5.842 -5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 40fd728e-d244-44b8-b55d-4de59bd54cd3))
+  (group "" (id 265b1e98-3da6-4715-87ad-00a1efbfcd23)
+    (members
+      24a7fa63-4ca6-4a64-ba22-22650570d54a
+      3b7ad6cf-468d-4349-be05-ee65fb39c7d9
+      a3867c26-a2b4-4099-ba88-7096ac9d903c
+      aadb3742-5083-4a9e-b6c9-ffe569a230c4
+      c3c49c62-ce99-41d2-9a86-8e05db921ce9
+    )
+  )
+  (group "" (id 70b9e281-dbd8-4fd4-91ee-cbf46b4bccaf)
+    (members
+      0d01a006-6dc1-4f07-990d-f471eec484dc
+      12dde5f6-f166-4490-a203-4df4a083aa57
+      1ecd5b73-7e1a-4c20-86f5-0dab9e7e1b85
+      234f7e96-057d-4033-8766-e2fd50b57041
+      3b517468-6288-4732-913b-a27326560fd6
+      40fd728e-d244-44b8-b55d-4de59bd54cd3
+      4e118849-91af-46fa-8ee3-5fc06b20d46d
+      5a4696ac-b527-4794-b98b-48824d47052a
+      68c8437e-3c53-4fc1-bca6-d2549ae1e44a
+      6c1dd66e-a9cb-4f85-b14a-b2f5ef42a1b8
+      72eac903-6257-49ce-978e-afa5359b2f58
+      7a5c9ffe-a029-441b-ae97-2eee93903fed
+      8f204b5c-c7af-4091-bf82-1ced54a7420c
+      94339052-70da-4a13-9765-1e3493569f11
+      9e7f94d5-6c15-46c0-a871-f4911f02ad30
+      9fdf947d-3069-4dbe-8e21-3d87c83e5729
+      a4be7f28-0eb1-47ab-99c6-206d867836a8
+      a607089a-e9b8-42cf-ac9b-a72aedadd55d
+      a65dc8fc-4fab-4ce0-9d90-e70acb7cedab
+      a73a2500-2a13-49a4-8717-40c1b71dd4ab
+      b76517a1-96e6-4df1-a372-de3873b5c51d
+      b95fb02b-33b5-480b-af60-7e39c5d51c42
+      b998296e-bd0e-46a5-b14e-d1a5577d1cfd
+      c3cad81d-7b19-46a8-a22e-587a1d37f9b9
+      c5faab88-f311-4c13-8f95-dbcbd21c9859
+      cb5d302e-c982-40dc-818e-08372b90a729
+      ce9b4d09-8d3a-4010-9171-5fcd52cb4d90
+      d2968d98-c056-420c-b754-098e3759eaf1
+      e4f7afe9-be78-4180-8989-db95b2633a75
+      ec69de1f-fdcb-43aa-9ed7-402352425801
+      f2336251-cc95-41e0-a529-9bcfd4de38b9
+      f6dd529b-89fa-45a0-a835-7a75b7ea4d13
+      f78d98c9-ccab-41d5-a1f9-c0032ea75bd7
+      f969df94-05a8-49c3-9e4b-047beec95ada
+      fbf5bef5-c226-4787-8d83-7335d7ebddd2
+    )
+  )
   (group "" (id a3867c26-a2b4-4099-ba88-7096ac9d903c)
     (members
       13038bb5-1eac-4a94-a4e7-6b1ac8c59ac0
       585e272c-f6a2-48d3-95e2-d6eec4304795
       60f7ca17-726f-402f-a1e3-a0b1b358ebcd
       b86efa61-db25-4811-9204-b4c658784756
-    )
-  )
-  (group "" (id fb74f573-5b01-4608-8ed6-fe38edc74cbd)
-    (members
-      0d01a006-6dc1-4f07-990d-f471eec484dc
-      12dde5f6-f166-4490-a203-4df4a083aa57
-      24a7fa63-4ca6-4a64-ba22-22650570d54a
-      3b7ad6cf-468d-4349-be05-ee65fb39c7d9
-      40fd728e-d244-44b8-b55d-4de59bd54cd3
-      68c8437e-3c53-4fc1-bca6-d2549ae1e44a
-      6c1dd66e-a9cb-4f85-b14a-b2f5ef42a1b8
-      72eac903-6257-49ce-978e-afa5359b2f58
-      94339052-70da-4a13-9765-1e3493569f11
-      9e7f94d5-6c15-46c0-a871-f4911f02ad30
-      a607089a-e9b8-42cf-ac9b-a72aedadd55d
-      aadb3742-5083-4a9e-b6c9-ffe569a230c4
-      b76517a1-96e6-4df1-a372-de3873b5c51d
-      b998296e-bd0e-46a5-b14e-d1a5577d1cfd
-      c3c49c62-ce99-41d2-9a86-8e05db921ce9
-      cb5d302e-c982-40dc-818e-08372b90a729
-      ce9b4d09-8d3a-4010-9171-5fcd52cb4d90
-      ec69de1f-fdcb-43aa-9ed7-402352425801
-      f78d98c9-ccab-41d5-a1f9-c0032ea75bd7
-      fbf5bef5-c226-4787-8d83-7335d7ebddd2
     )
   )
   (model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/Kailh-CherryMX-Socket.step"
