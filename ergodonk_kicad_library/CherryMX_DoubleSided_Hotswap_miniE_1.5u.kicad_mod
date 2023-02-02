@@ -143,4 +143,12 @@
   (pad "5" smd rect (at -5.7 5.12) (size 2.3 2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp deede9b3-f1da-4b36-9e98-35792c33caea))
   (pad "6" smd rect (at -7 2.58) (size 2.3 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3ad1575f-8c43-4849-b86c-66ddbb05ef78))
   (pad "6" smd rect (at 7 2.58) (size 2.3 2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp feeae0cd-57eb-4d5f-8bad-ba48f45eb6e5))
+  (group "" (id 53af2550-087f-4dc1-8d6d-766a453db3a6)
+    (members
+      3983a154-1623-4a8b-bc1d-2ede2bce01b5
+      540370a5-3b44-4f37-9e0b-f640ca60f120
+      73397094-df5f-4150-9d97-a4a5634bedc4
+      98b8e219-e720-4b69-a6b7-411652efbcbf
+    )
+  )
 )
