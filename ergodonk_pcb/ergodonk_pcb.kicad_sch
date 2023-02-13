@@ -7480,7 +7480,7 @@
     (property "Reference" "JP1" (id 0) (at 374.65 -132.08 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "All LEDs" (id 1) (at 374.65 -134.62 90)
+    (property "Value" "Alpha Key LEDs" (id 1) (at 374.65 -134.62 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Keebio-Parts:solder_jumper" (id 2) (at 372.11 -134.62 0)
@@ -8895,7 +8895,7 @@
       (reference "J1") (unit 1) (value "AudioJack4") (footprint "kbd:MJ-4PP-9")
     )
     (path "/b52a3795-c9d6-462c-9916-d190625d0486"
-      (reference "JP1") (unit 1) (value "All LEDs") (footprint "Keebio-Parts:solder_jumper")
+      (reference "JP1") (unit 1) (value "Alpha Key LEDs") (footprint "Keebio-Parts:solder_jumper")
     )
     (path "/63f72168-370b-46ab-91a9-0221041d4598"
       (reference "JP2") (unit 1) (value "Thumb Keys (Both hands)") (footprint "Keebio-Parts:solder_jumper")

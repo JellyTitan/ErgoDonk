@@ -1,4 +1,4 @@
-20792886242212914
+20898466329491033
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53136,6 +53136,349 @@ heatsink
 0
 2
 1
+Hybrid-Switches
+MX-1.5u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1.5u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1.25u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1.25u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1.75u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1.75u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-1u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.25u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.25u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.25u-ReversedStabilizers
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.75u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.75u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.75u-ReversedStabilizers
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2.75u-ReversedStabilizers-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2u-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2u-ReversedStabilizers
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-2u-ReversedStabilizers-LEDFlip
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-Alps-1.25u
+MX/Alps footprint
+
+0
+4
+4
+Hybrid-Switches
+MX-Alps-1u
+MX/Alps footprint
+
+0
+10
+4
+Hybrid-Switches
+MX-Alps-2u-ReversedStabilizers
+
+
+0
+12
+4
+Hybrid-Switches
+MX-Hotswap-1.5u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-1.5u-Antishear
+MX/Alps footprint
+
+0
+6
+2
+Hybrid-Switches
+MX-Hotswap-1.25u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-1.25u-Antishear
+MX/Alps footprint
+
+0
+6
+2
+Hybrid-Switches
+MX-Hotswap-1.75u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-1.75u-Antishear
+MX/Alps footprint
+
+0
+6
+2
+Hybrid-Switches
+MX-Hotswap-1u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-1u-Antishear
+MX/Alps footprint
+
+0
+6
+2
+Hybrid-Switches
+MX-Hotswap-2.25u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-2.25u-Antishear
+MX/Alps footprint
+
+0
+6
+2
+Hybrid-Switches
+MX-Hotswap-2.25u-ReversedStabilizers
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-2.25u-ReversedStabilizers-Antishear
+MX/Alps footprint
+
+0
+6
+2
+Hybrid-Switches
+MX-Hotswap-2.75u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-2.75u-Antishear
+MX/Alps footprint
+
+0
+6
+2
+Hybrid-Switches
+MX-Hotswap-2u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-2u-Antishear
+MX/Alps footprint
+
+0
+6
+2
+Hybrid-Switches
+MX-Hotswap-Outemu-1.5u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-Outemu-1.25u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-Outemu-1.75u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-Outemu-1u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-Outemu-2.25u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-Outemu-2.75u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-Outemu-2u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-Stabflip-Outemu-2.25u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-Stabflip-Outemu-2.75u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-Hotswap-Stabflip-Outemu-2u
+MX/Alps footprint
+
+0
+2
+2
+Hybrid-Switches
+MX-ISO-ReversedStabilizers
+
+
+0
+4
+4
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -87149,6 +87492,55 @@ varistor SIOV
 0
 2
 2
+customs
+Kailh_socket_MX_platemount
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+customs
+PinHeader_1x05_P2.54mm_Vertical
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+customs
+SOT23-R
+<b>SOT23</b> - Reflow soldering
+
+0
+3
+3
+customs
+SolderWire-0.15sqmm_1x01_D0.5mm_OD1.5mm
+Soldered wire connection, for a single 0.15 mm² wire, basic insulation, conductor diameter 0.5mm, outer diameter 1.5mm, size source Multi-Contact FLEXI-E 0.15 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
+connector wire 0.15sqmm
+0
+1
+1
+customs
+TSOT-23_HandSoldering
+5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
+TSOT-23 Hand-soldering
+0
+6
+3
+customs
+ffc molex 12 pins
+Molex Pico-Clasp series connector, 202396-1207 (http://www.molex.com/pdm_docs/sd/2023960207_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-Clasp top entry
+0
+14
+13
+ergodonk_kicad_library
+AST1109MLTRQ
+
+
+0
+2
+2
 ergodonk_kicad_library
 ArduinoProMicro-ZigZag-USB-C
 
@@ -87164,18 +87556,46 @@ ArduinoProMicro-ZigZag-USB-C_hidden_text
 24
 24
 ergodonk_kicad_library
+BOURNS PER561-P115-N0015
+
+
+0
+3
+3
+ergodonk_kicad_library
+Bourns Hollow Encoder V1
+
+
+0
+3
+3
+ergodonk_kicad_library
+CherryMX_DS_HS_MINIE_1.5U
+MXALPS
+MXALPS
+0
+32
+6
+ergodonk_kicad_library
+CherryMX_DS_HS_MINIE_1U
+MXALPS
+MXALPS
+0
+32
+6
+ergodonk_kicad_library
 CherryMX_DS_Hotswap_miniE_1.5u_Micro
 
 
 0
-12
+68
 6
 ergodonk_kicad_library
 CherryMX_DoubleSided_Hotswap_miniE
 
 
 0
-12
+16
 6
 ergodonk_kicad_library
 CherryMX_DoubleSided_Hotswap_miniE_1.5u
@@ -87437,6 +87857,13 @@ R
 6
 2
 ergodonk_kicad_library
+LongOvalCut
+
+
+0
+0
+0
+ergodonk_kicad_library
 Low-Profile-Choc-MX
 
 
@@ -87456,6 +87883,13 @@ MX-Alps-Choc-2U-StabFlip-keebio
 
 0
 12
+6
+ergodonk_kicad_library
+MX_KAILH_SOCKET_1U-LED-FBS
+MXALPS
+MXALPS
+0
+32
 6
 ergodonk_kicad_library
 MX_KAILH_SOCKET_1U-LED-FBS-rot
@@ -87478,6 +87912,13 @@ mounting hole 2.2mm m2
 0
 9
 1
+ergodonk_kicad_library
+MountingHole_4mm
+Mounting Hole 4mm, no annular
+mounting hole 4mm no annular
+0
+0
+0
 ergodonk_kicad_library
 RotaryEncoder_EC11_ergodonk_variant
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html

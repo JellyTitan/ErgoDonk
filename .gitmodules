@@ -10,3 +10,9 @@
 [submodule "ergodonk_pcb/KiCad-RP-Pico"]
 	path = ergodonk_pcb/KiCad-RP-Pico
 	url = https://github.com/ncarandini/KiCad-RP-Pico.git
+[submodule "ergodonk_pcb/Hybrid-Switches.pretty"]
+	path = ergodonk_pcb/Hybrid-Switches.pretty
+	url = https://github.com/keebio/Hybrid-Switches.pretty.git
+[submodule "ergodonk_pcb/keebio-components"]
+	path = ergodonk_pcb/keebio-components
+	url = https://github.com/keebio/keebio-components

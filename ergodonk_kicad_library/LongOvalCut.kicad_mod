@@ -1,0 +1,14 @@
+(footprint "LongOvalCut" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5A93A570)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 0.5) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 50a17e1c-a85c-406e-8638-6e97ebba8905)
+  )
+  (fp_text value "LongOvalCut" (at 0 -0.5) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp de43a699-aff7-4c23-a4df-ad019eca1a24)
+  )
+  (pad "" np_thru_hole oval (at 0 0) (size 16.66875 0.8) (drill oval 16.66875 0.8) (layers *.Cu *.Mask) (tstamp ccdba5f1-8cd0-4540-8354-aac413513301))
+)
