@@ -408,7 +408,8 @@
     "pinned_footprint_libs": [
       "ergodonk_kicad_library",
       "SofleChoc",
-      "Footprints"
+      "Footprints",
+      "kbd"
     ],
     "pinned_symbol_libs": []
   },
