@@ -1,4 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "YAAJ_WeAct_BlackPill_Part_Like_SWD_Breakout")(type "Legacy")(uri "${KIPRJMOD}/Kicad-STM32/Symbols/YAAJ_WeAct_BlackPill_Part_Like_SWD_Breakout.lib")(options "")(descr ""))
   (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
   (lib (name "MUR340S")(type "KiCad")(uri "${KIPRJMOD}/MUR340S/MUR340S.kicad_sym")(options "")(descr ""))
