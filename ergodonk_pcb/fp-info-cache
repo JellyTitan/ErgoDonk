@@ -1,4 +1,4 @@
-22071961820995922
+22073639503699688
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91385,6 +91385,13 @@ mounting hole 4mm no annular
 0
 0
 ergodonk_kicad_library
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+172
+43
+ergodonk_kicad_library
 RotaryEncoder_EC11_ergodonk_variant
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
@@ -91466,14 +91473,14 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u_LH_ONLY
 
 
 0
-16
+6
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u_RH_ONLY
 
 
 0
-16
+6
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u_vertical
@@ -91508,14 +91515,14 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_1.75u_LH_1u_RH
 
 
 0
-12
+14
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.75u_LH_ONLY
 
 
 0
-16
+6
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.75u_Vertical
@@ -91529,7 +91536,7 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_1u_RH_ONLY
 
 
 0
-16
+6
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_2.25u
@@ -91543,14 +91550,14 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_2.25u_LH_2.75u_RH
 
 
 0
-12
+14
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_2.25u_LH_ONLY
 
 
 0
-16
+6
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_2.75u
@@ -91564,7 +91571,7 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_2.75u_RH_ONLY
 
 
 0
-16
+6
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_2u
@@ -91578,7 +91585,7 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_2u_RH_ONLY
 
 
 0
-16
+6
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_2u_Vertical
