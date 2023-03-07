@@ -1,4 +1,4 @@
-22068575120873621
+22073601647358611
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64161,6 +64161,20 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+Neffs_kicad_footprint_library
+MUR340S_IN4004_TH
+
+
+0
+6
+2
+Neffs_kicad_footprint_library
+solenoid
+
+
+0
+0
+0
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -91327,6 +91341,13 @@ Low-Profile-Choc-MX_no_text_V2
 
 0
 3
+2
+ergodonk_kicad_library
+MUR340S_IN4004_TH
+
+
+0
+6
 2
 ergodonk_kicad_library
 MX-Alps-Choc-2U-StabFlip-keebio

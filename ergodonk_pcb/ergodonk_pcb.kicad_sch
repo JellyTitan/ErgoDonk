@@ -2117,7 +2117,9 @@
   )
 
   (no_connect (at 50.8 87.63) (uuid 1fca986b-56b7-4d0d-b99c-7195e5ac79e4))
+  (no_connect (at 38.1 99.06) (uuid 43c5f938-bdb4-4034-8e10-2fcb9fc68007))
   (no_connect (at 147.32 176.53) (uuid 52640df2-1166-4621-a11d-01381d4836a8))
+  (no_connect (at 38.1 96.52) (uuid a2bfcc99-23b5-4e7c-8a14-b121ee8b8046))
 
   (wire (pts (xy 358.14 74.93) (xy 379.73 74.93))
     (stroke (width 0) (type default))
@@ -6110,15 +6112,15 @@
   )
 
   (symbol (lib_id "MUR340S:MUR340S") (at 52.07 99.06 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 43a0c72e-039e-4a12-b9f3-7a0bb9910ee2)
-    (property "Reference" "D_SOL_1" (at 54.61 97.7899 90)
+    (property "Reference" "D_SOL_1" (at 55.88 96.52 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "MUR340S" (at 54.61 100.3299 90)
+    (property "Value" "MUR340S" (at 55.88 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "kbd:R" (at 52.07 99.06 0)
+    (property "Footprint" "ergodonk_kicad_library:MUR340S_IN4004_TH" (at 52.07 99.06 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (at 52.07 99.06 0)
@@ -8583,7 +8585,7 @@
   (symbol (lib_id "Connector:Conn_01x05_Socket") (at 152.4 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b4440273-9d7e-486d-be6a-46c39c87c0fc)
-    (property "Reference" "J10" (at 153.67 173.355 0)
+    (property "Reference" "J11" (at 153.67 173.355 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Pimaroni Trackball" (at 143.51 165.1 0)
@@ -8603,7 +8605,7 @@
     (instances
       (project "ergodonk_pcb"
         (path "/ed1aaf15-4e1f-4159-b371-d99b3fb972ad"
-          (reference "J10") (unit 1)
+          (reference "J11") (unit 1)
         )
       )
     )

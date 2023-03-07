@@ -471,7 +471,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "ergodonk_pcb.dsn",
+      "specctra_dsn": "ergodonk_pcb3.dsn",
       "step": "../test_prints/ergodonk_pcb_encoder_test_2.STEP",
       "vrml": ""
     },
