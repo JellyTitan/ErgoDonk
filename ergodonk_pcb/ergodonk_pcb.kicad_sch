@@ -4283,7 +4283,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1c9ad681-95ab-46c9-9415-0cbcb4a295ea)
   )
-  (text "Todo:\nCheck Pimaroni resistor calculation and footprint size\nCHeck net trace sizes. (.5 for 3.3v?)\nIncree trcck size on vcc and GND nets\nFigure out VCC on Pico\nFigure out vbus_sense\nCutouts for picon on PCB\nRH trackball\nGraphics\nMouse bites\nStabalizer holes\nImprove solenoid graphics\nRefactor key row/columns to put 00 in upper right for easier double sided\nMake Diode holes bigger\nAdd breakaway diode bender jig, like on Corne_light v1\nAdd teardrops before production\nAdd maxbrightness to firmware like Keebio sync rev3 (you've got a ton of lights)\nCan the LH Led jumper become a single Jumper for LH/RH differentiation?"
+  (text "Todo:\nIs there a good smd option for the Solenoid resistor?\nIs there a female smd socket for the solenoid connection?\nCheck Pimaroni resistor calculation and footprint size\nCHeck net trace sizes. (.5 for 3.3v?)\nIncree trcck size on vcc and GND nets\nFigure out VCC on Pico\nFigure out vbus_sense\nCutouts for picon on PCB\nRH trackball\nGraphics\nMouse bites\nStabalizer holes\nImprove solenoid graphics\nRefactor key row/columns to put 00 in upper right for easier double sided\nMake Diode holes bigger\nAdd breakaway diode bender jig, like on Corne_light v1\nAdd teardrops before production\nAdd maxbrightness to firmware like Keebio sync rev3 (you've got a ton of lights)\nCan the LH Led jumper become a single Jumper for LH/RH differentiation?"
     (at 106.68 64.77 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 43f6860e-51e2-4818-91c8-ad3138862460)
@@ -4845,7 +4845,7 @@
     (property "Value" "1k" (at 39.37 106.68 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 39.37 109.22 0)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 39.37 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 39.37 109.22 0)
@@ -6210,7 +6210,7 @@
     (property "Value" "MUR340S" (at 55.88 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ergodonk_kicad_library:MUR340S_IN4004_TH" (at 52.07 99.06 0)
+    (property "Footprint" "ergodonk_kicad_library:MUR340S_IN4001_TH" (at 52.07 99.06 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (at 52.07 99.06 0)
