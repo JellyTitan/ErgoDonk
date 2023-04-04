@@ -25,7 +25,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
     (tstamp 7c60e220-ea4e-4c03-8d06-582414a2d652)
   )
-  (fp_text user "5X, -5.15Y (INCREASED TO 5.5 - Datasheet is wrong!!!)" (at 5.12 -11.83 unlocked) (layer "User.2")
+  (fp_text user "5X, -5.15Y (INCREASED TO 5.55/5.55 - Datasheet is wrong!!!)" (at 5.12 -11.83 unlocked) (layer "User.2")
       (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
     (tstamp 882801e9-6dfc-4c30-b03e-c5d44cc91812)
   )
@@ -167,27 +167,25 @@
     (stroke (width 0.12) (type default)) (layer "User.9") (tstamp 7619f6de-3804-45f9-b8a2-6d36c2a11a26))
   (fp_line (start 10.855 3.785) (end -2.51 5.05)
     (stroke (width 0.12) (type default)) (layer "User.9") (tstamp 43e79a0d-68e6-4e02-a89c-24c54693c634))
+  (pad "" np_thru_hole roundrect (at -5.55 -5.55) (size 1 1) (drill oval 1 0.4 (offset 0 -0.3)) (layers "F&B.Cu" "F.Mask") (roundrect_rratio 0.5)
+    (chamfer_ratio 0.15) (chamfer bottom_left bottom_right) (tstamp 08abc178-1b40-42e0-9273-3d977fbe2312))
+  (pad "" np_thru_hole oval (at -5.55 5.55 0.5) (size 1 1) (drill oval 1 0.4 (offset -0.5 0)) (layers "F&B.Cu" "B.Mask") (tstamp af882ffc-95a2-4066-bb6e-4b78adcd834b))
   (pad "" np_thru_hole circle (at -5.5 0 90) (size 1.8 1.8) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp 01caf7f0-4e08-4a1f-8c26-b39523d4889c))
   (pad "" np_thru_hole circle (at -5.08 0) (size 1.7 1.7) (drill 1.7) (layers "F&B.Cu" "*.Mask") (tstamp c841fa2b-962d-45c9-aa81-dcc7088fce5b))
-  (pad "" np_thru_hole roundrect (at -5 -5.5) (size 1 1) (drill oval 1 0.4 (offset 0 -0.3)) (layers "F&B.Cu" "F.Mask") (roundrect_rratio 0.5)
-    (chamfer_ratio 0.15) (chamfer bottom_left bottom_right) (tstamp 08abc178-1b40-42e0-9273-3d977fbe2312))
   (pad "" np_thru_hole circle (at -5 -3.7 90) (size 3 3) (drill 3) (layers "F&B.Cu" "*.Mask") (tstamp 51133272-8a45-4bb2-b25b-c24b70cfd4dc))
-  (pad "" np_thru_hole oval (at -5 5.5) (size 1 0.3) (drill oval 1 0.3) (layers "F&B.Cu")
-    (clearance 0.01) (tstamp cff8789f-ac0a-4746-89eb-f12d83d0c84f))
   (pad "" np_thru_hole circle (at 0 -5.9 270) (size 3 3) (drill 3) (layers "F&B.Cu" "*.Mask") (tstamp fe0da404-d747-4505-a7fd-c46ebee1bc8b))
   (pad "" np_thru_hole circle (at 0 0 270) (size 4.8 4.8) (drill 4.8) (layers "F&B.Cu" "*.Mask") (tstamp 6f1e3198-b51f-42a9-9b2d-6a5571ddcdfa))
   (pad "" np_thru_hole circle (at 0 0 90) (size 6.4 6.4) (drill 6.4) (layers "F&B.Cu" "*.Mask") (tstamp 0ed3e2ce-2c99-478c-9587-fd8ce5ff14f0))
   (pad "" np_thru_hole circle (at 0 3.75 270) (size 2.3 2.3) (drill 2.3) (layers "F&B.Cu" "*.Mask") (tstamp b3b39026-0191-49e0-88ad-ff93b656fced))
-  (pad "" np_thru_hole roundrect (at 5 -5.5 0.5) (size 1 1) (drill oval 1 0.4 (offset 0 -0.3)) (layers "F&B.Cu" "B.Mask") (roundrect_rratio 0.5)
-    (chamfer_ratio 0.15) (chamfer bottom_left bottom_right) (tstamp 75ba06c9-4cf5-44d3-a37b-df99b2766dab))
   (pad "" np_thru_hole circle (at 5 -3.7 270) (size 3 3) (drill 3) (layers "F&B.Cu" "*.Mask") (tstamp dede31af-f01c-48de-bc4d-854a85ae1170))
-  (pad "" np_thru_hole oval (at 5 5.5) (size 1 0.3) (drill oval 1 0.3) (layers "F&B.Cu")
-    (clearance 0.01) (tstamp f854146a-7eb6-4f72-8bbb-1c795273cc48))
   (pad "" np_thru_hole circle (at 5.08 0) (size 1.7 1.7) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp 87fb6d09-2a64-40c9-b178-d8bb4fcbbb78))
   (pad "" np_thru_hole circle (at 5.5 0 90) (size 1.8 1.8) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp 868e6209-17c2-4417-a4ed-57f7ea3d8082))
+  (pad "" np_thru_hole roundrect (at 5.55 -5.55 0.5) (size 1 1) (drill oval 1 0.4 (offset 0 -0.3)) (layers "F&B.Cu" "B.Mask") (roundrect_rratio 0.5)
+    (chamfer_ratio 0.15) (chamfer bottom_left bottom_right) (tstamp 75ba06c9-4cf5-44d3-a37b-df99b2766dab))
+  (pad "" np_thru_hole oval (at 5.55 5.55) (size 1 1) (drill oval 1 0.3 (offset 0.5 0)) (layers "F&B.Cu" "F.Mask") (tstamp f854146a-7eb6-4f72-8bbb-1c795273cc48))
   (pad "1" smd roundrect (at -8.275 -3.7) (size 2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.12)
     (chamfer_ratio 0) (chamfer top_right bottom_right) (tstamp db452573-823b-4a55-95fa-11539a5697fe))
-  (pad "1" thru_hole circle (at -7.475 -3.8) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp 5bc5d9b2-e2a7-4550-b645-175a6aa17004))
+  (pad "1" thru_hole circle (at -7.475 -3.8) (size 0.4 0.4) (drill 0.25) (layers "*.Cu") (tstamp 5bc5d9b2-e2a7-4550-b645-175a6aa17004))
   (pad "1" smd custom (at -7.475 -3.8) (size 0.4 0.4) (layers "B.Cu")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
@@ -303,7 +301,7 @@
         (width 0) (fill yes))
     ) (tstamp 8f9e806d-2c7f-4cf6-be8b-c7ad8080e665))
   (pad "2" thru_hole circle (at -2.54 5.08 180) (size 1.6 1.6) (drill oval 1 0.4) (layers "*.Cu" "B.Mask") (tstamp 1358b963-6bc6-4929-a41a-a755ed298f20))
-  (pad "2" thru_hole circle (at -0.000002 -8.225) (size 0.4 0.4) (drill 0.2) (layers "*.Cu") (tstamp 0f3cae54-23ad-4cef-a1d5-8c2067834ab3))
+  (pad "2" thru_hole circle (at -0.000002 -8.225) (size 0.4 0.4) (drill 0.25) (layers "*.Cu") (tstamp 0f3cae54-23ad-4cef-a1d5-8c2067834ab3))
   (pad "2" smd custom (at 0 -8.225) (size 0.4 0.4) (layers "F.Cu")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
@@ -335,7 +333,7 @@
   (pad "2" smd roundrect (at 3 -5.9) (size 2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.12)
     (chamfer_ratio 0.25) (chamfer bottom_right)
     (thermal_bridge_angle 45) (tstamp 19686e3c-9b22-4444-806f-cde0b3943480))
-  (group "" (id d43b36b5-eac9-42aa-8d37-ce98ba7eb4d5)
+  (group "" (id c3deaa95-07fb-42f3-8696-33f11aecdecc)
     (members
       0a2244e8-0f46-45c4-8d2a-91654f96d5c2
       0f3cae54-23ad-4cef-a1d5-8c2067834ab3
@@ -372,7 +370,6 @@
       ad192500-2ffd-427d-973a-a3fc911a57de
       af13cad1-b0c1-431e-97f6-ca82128707ae
       cbfa0738-6687-445b-9d45-b0c6da82e671
-      cff8789f-ac0a-4746-89eb-f12d83d0c84f
       db452573-823b-4a55-95fa-11539a5697fe
       de082df0-9918-43e4-ad52-4b5dd49254a7
       dede31af-f01c-48de-bc4d-854a85ae1170
