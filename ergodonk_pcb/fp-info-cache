@@ -1,4 +1,4 @@
-22127989163101310
+22131362993182386
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91081,7 +91081,7 @@ AST1109MLTRQ
 
 
 0
-2
+6
 2
 ergodonk_kicad_library
 AST1109MLTRQ CANTOR MX
@@ -91406,13 +91406,6 @@ CherryMX_MidHeight_Hotswap_1.5uLH_1uRH
 4
 2
 ergodonk_kicad_library
-CherryMX_MidHeight_Hotswap_1.25u_Vert_ergodonk
-
-
-0
-4
-2
-ergodonk_kicad_library
 CherryMX_MidHeight_Hotswap_2uLH_1uRH
 
 
@@ -91428,6 +91421,13 @@ CherryMX_MidHeight_Hotswap_2u_ergodonk
 2
 ergodonk_kicad_library
 CherryMX_MidHeight_Hotswap_Mix_sizes_starter_template
+
+
+0
+4
+2
+ergodonk_kicad_library
+Cherry_MX_MidHeight_Hotswap_1.25u_Vert_ergodonk
 
 
 0
@@ -91533,6 +91533,13 @@ MJ-4PP-9_CANTOR_KITCHEN_SINK
 4
 ergodonk_kicad_library
 MUR340S_IN4001_TH
+
+
+0
+4
+2
+ergodonk_kicad_library
+MUR340S_IN4001_TH_HYBRID
 
 
 0
@@ -91690,14 +91697,14 @@ V2_CherryMX_DoubleSided_Hotswap_miniE
 
 
 0
-36
+32
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u
 
 
 0
-36
+32
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u_LH_1u_RH
@@ -91725,35 +91732,35 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u_vertical
 
 
 0
-36
+32
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.25u
 
 
 0
-36
+32
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.25u_Vertical
 
 
 0
-36
+32
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.75u
 
 
 0
-36
+32
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.75u_LH_1u_RH
 
 
 0
-14
+19
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.75u_LH_ONLY
@@ -91767,7 +91774,7 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_1.75u_Vertical
 
 
 0
-36
+32
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_1u_RH_ONLY
@@ -91781,7 +91788,7 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_2.25u
 
 
 0
-36
+32
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_2.25u_LH_2.75u_RH
@@ -91798,11 +91805,18 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_2.25u_LH_ONLY
 6
 6
 ergodonk_kicad_library
+V2_CherryMX_DoubleSided_Hotswap_miniE_2.25u_RH_ONLY
+
+
+0
+11
+6
+ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_2.75u
 
 
 0
-36
+32
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_2.75u_RH_ONLY
@@ -91816,7 +91830,7 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_2u
 
 
 0
-36
+32
 6
 ergodonk_kicad_library
 V2_CherryMX_DoubleSided_Hotswap_miniE_2u_RH_ONLY
@@ -91830,7 +91844,7 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_2u_Vertical
 
 
 0
-36
+32
 6
 ergodonk_kicad_library
 pimoroni_trackball
