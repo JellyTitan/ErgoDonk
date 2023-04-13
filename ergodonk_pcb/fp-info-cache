@@ -1,4 +1,4 @@
-22133044984872630
+22136434424384855
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91672,11 +91672,25 @@ TRRS-PJ-320A
 8
 4
 ergodonk_kicad_library
+TRRS_or_TRS_Sofle_Click
+
+
+0
+6
+3
+ergodonk_kicad_library
 TRRS_reversible_CRKBD
 Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320E-177.html)
 3.5mm jack mic microphone phones headphones 4pins audio plug
 0
 8
+3
+ergodonk_kicad_library
+Tip 120 with heatsink
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
 3
 ergodonk_kicad_library
 V2_CherryMX_DS_Hotswap_miniE_1U_SEED
