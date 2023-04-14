@@ -137,7 +137,7 @@
     (chamfer_ratio 0) (chamfer top_left bottom_left)
     (clearance 0.2) (zone_connect 2) (tstamp c08d7c0f-51f6-438d-a86c-e62d0a3fcf06))
   (pad "" np_thru_hole circle (at -2.54 5.08 180) (size 3 3) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 6309fa62-0bb1-43ef-997c-2234d914e2f8))
-  (pad "" np_thru_hole circle (at 0 -6.42973 180) (size 1.5 1.5) (drill 1.5) (layers "F&B.Cu" "*.Mask") (tstamp b550f10e-8195-4a67-88be-5423463f4818))
+  (pad "" np_thru_hole circle (at 0 -6.42973 180) (size 1.25 1.25) (drill 1.25) (layers "F&B.Cu" "*.Mask") (tstamp b550f10e-8195-4a67-88be-5423463f4818))
   (pad "" np_thru_hole circle (at 0 -3.43 180) (size 1.25 1.25) (drill 1.25) (layers "F&B.Cu" "*.Mask") (tstamp c14ea440-1e72-4e62-9f60-2a5be4de56be))
   (pad "" np_thru_hole circle (at 0 0 180) (size 3.9878 3.9878) (drill 3.9878) (layers "*.Cu" "*.Mask") (tstamp 79f16985-c962-4557-9987-62b307f4601b))
   (pad "" np_thru_hole circle (at 0 0 180) (size 3.9878 3.9878) (drill 3.9878) (layers "*.Cu" "*.Mask") (tstamp cbaaa0fd-fb31-4ce6-95a0-e09ea6766925))
@@ -378,7 +378,7 @@
     (chamfer_ratio 0) (chamfer top_left bottom_left) (tstamp b7a062fd-f3ee-4487-9c34-aaadc538fcf2))
   (pad "6" thru_hole circle (at -6.34 3.81 180) (size 0.5 0.5) (drill 0.25) (layers "*.Cu") (tstamp ec21ba3d-5139-4294-86bc-d90ef950f157))
   (pad "6" smd roundrect (at -5.8435 5.07 180) (size 2.553 2.52) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
-    (chamfer_ratio 0) (chamfer top_left bottom_left) (tstamp 56d930cc-7c5f-4643-9429-a200c45734b1))
+    (chamfer_ratio 0.25) (chamfer bottom_left) (tstamp 56d930cc-7c5f-4643-9429-a200c45734b1))
   (group "" (id f5dd0369-52e9-42e4-a5ec-768f866ec8e3)
     (members
       038db862-2e69-456e-8da2-41af9069e379

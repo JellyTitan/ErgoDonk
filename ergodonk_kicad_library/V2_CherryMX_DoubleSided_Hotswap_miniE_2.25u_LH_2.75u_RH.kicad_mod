@@ -288,13 +288,13 @@
   (pad "" np_thru_hole circle (at -3.81 2.86445 180) (size 3 3) (drill 3) (layers "*.Cu" "*.Mask") (tstamp f5c40c1c-03e4-49b4-8839-b12ea7280dec))
   (pad "" np_thru_hole circle (at -0.3175 0.32445 180) (size 1.75 1.75) (drill 1.75) (layers "*.Cu" "*.Mask") (tstamp 37f03f81-673d-4463-b83c-f6f23d2b7682))
   (pad "" np_thru_hole circle (at -0.3175 0.32445 180) (size 1.75 1.75) (drill 1.75) (layers "*.Cu" "*.Mask") (tstamp baa1a819-c8c5-4d16-b5c7-778f0a2c9341))
-  (pad "" np_thru_hole circle (at -0.2 -6.10528 180) (size 1.5 1.5) (drill 1.5) (layers "F&B.Cu" "*.Mask") (tstamp 4fd5d3ec-f83b-4669-aea3-0bf45d38ff82))
+  (pad "" np_thru_hole circle (at -0.2 -6.10528 180) (size 1.25 1.25) (drill 1.25) (layers "F&B.Cu" "*.Mask") (tstamp 4fd5d3ec-f83b-4669-aea3-0bf45d38ff82))
   (pad "" np_thru_hole circle (at -0.19 -3.10555 180) (size 1.25 1.25) (drill 1.25) (layers "F&B.Cu" "*.Mask") (tstamp 38a931c5-7d17-4542-b292-b67d8c72b6ae))
   (pad "" np_thru_hole circle (at 0 0.32445 180) (size 3.9878 3.9878) (drill 3.9878) (layers "*.Cu" "*.Mask") (tstamp 19a04b2b-4070-4744-8521-acb7e6f4166b))
   (pad "" np_thru_hole circle (at 0 0.32445 180) (size 3.9878 3.9878) (drill 3.9878) (layers "*.Cu" "*.Mask") (tstamp 28c3622b-c9a2-473a-85e1-62f41e5119dc))
   (pad "" np_thru_hole circle (at 2.2225 5.40445 180) (size 3 3) (drill 3) (layers "*.Cu" "*.Mask") (tstamp c85df9c0-a911-4785-9b00-f3d41628c7f7))
   (pad "" np_thru_hole circle (at 2.54 5.40445 180) (size 3 3) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 04585743-12d2-401e-854e-93d506e21bfd))
-  (pad "" np_thru_hole circle (at 4.7625 -6.10528 180) (size 1.5 1.5) (drill 1.5) (layers "F&B.Cu" "*.Mask") (tstamp d307d1b0-e622-4a28-aa18-7ab609a556b8))
+  (pad "" np_thru_hole circle (at 4.7625 -6.10528 180) (size 1.25 1.25) (drill 1.25) (layers "F&B.Cu" "*.Mask") (tstamp d307d1b0-e622-4a28-aa18-7ab609a556b8))
   (pad "" np_thru_hole circle (at 4.7625 -3.10555 180) (size 1.25 1.25) (drill 1.25) (layers "F&B.Cu" "*.Mask") (tstamp b56d201c-7852-45ee-8cbb-d9118aa52a8c))
   (pad "" np_thru_hole circle (at 4.7625 0.32445 180) (size 3.9878 3.9878) (drill 3.9878) (layers "*.Cu" "*.Mask") (tstamp 40e4c79d-ecc9-49ae-bb0c-6ba2529fd537))
   (pad "" np_thru_hole circle (at 4.7625 0.32445 180) (size 3.9878 3.9878) (drill 3.9878) (layers "*.Cu" "*.Mask") (tstamp c054820f-4355-44b9-a0be-135ec1011fdb))
@@ -324,6 +324,7 @@
   (pad "4" smd rect (at 7.2625 -5.52028) (size 1.6 0.85) (layers "B.Cu")
     (zone_connect 2) (thermal_bridge_angle 45) (tstamp 113d649e-b744-4fac-9ce0-39d389f91e16))
   (pad "5" smd custom (at 5.842 5.40445 180) (size 2.5 2.5) (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
       (gr_poly
@@ -343,7 +344,7 @@
         )
         (width 0) (fill yes))
       (gr_arc (start -5.025683 2.616166) (mid -3.608 0.49445) (end -1.105266 0.992274) (width 0.5))
-      (gr_arc (start -1.027185 -0.092313) (mid -1.269157 0.420616) (end -1.829545 0.507858) (width 0.5))
+      (gr_arc (start -1.027185 -0.092313) (mid -1.269157 0.420616) (end -1.829545 0.507859) (width 0.5))
     ) (tstamp e2536c28-b4cf-4ede-b750-4f3ed4f24c3c))
   (pad "5" thru_hole circle (at 10.87 2.78) (size 0.5 0.5) (drill 0.25) (layers "*.Cu" "*.Mask") (tstamp 5f7a1ab4-08a7-4819-9c5b-8398e8bc9fe9))
   (pad "5" smd roundrect (at 11.8475 2.86445 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
@@ -352,10 +353,11 @@
     (chamfer_ratio 0) (chamfer top_left bottom_left) (tstamp 9c88e51d-b8c2-4b5b-93c9-9505992b118e))
   (pad "6" thru_hole circle (at -6.106526 2.86445) (size 0.5 0.5) (drill 0.25) (layers "*.Cu" "*.Mask") (tstamp fa318e57-66e0-4eee-ac95-4abd8d8289ed))
   (pad "6" smd custom (at -1.0795 5.40445 180) (size 2.5 2.5) (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
-      (gr_arc (start 1.106609 0.916108) (mid 3.609343 0.418284) (end 5.027026 2.54) (width 0.5))
-      (gr_arc (start 1.830888 0.431692) (mid 1.2705 0.34445) (end 1.028528 -0.168479) (width 0.5))
+      (gr_arc (start 1.106609 0.916108) (mid 3.609344 0.418284) (end 5.027029 2.54) (width 0.5))
+      (gr_arc (start 1.830888 0.431692) (mid 1.270496 0.344452) (end 1.028519 -0.168479) (width 0.5))
       (gr_poly
         (pts
           (xy -1.275 -1.25)
