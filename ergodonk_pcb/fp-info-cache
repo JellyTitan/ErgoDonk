@@ -1,4 +1,4 @@
-22138123530264456
+22156623888738717
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91049,6 +91049,13 @@ varistor
 2
 2
 ergodonk_kicad_library
+2.54 gird
+
+
+0
+0
+0
+ergodonk_kicad_library
 ALL LOWs
 
 
@@ -91090,6 +91097,13 @@ AST1109MLTRQ CANTOR MX
 0
 6
 2
+ergodonk_kicad_library
+Amoeba_MountingHole_2.2mm_M2_DIN965_Pad_TopOnly
+Mounting Hole 2.2mm, M2, DIN965
+mounting hole 2.2mm m2 din965
+0
+0
+0
 ergodonk_kicad_library
 ArduinoProMicro-ZigZag-USB-C
 
@@ -91606,7 +91620,7 @@ OLED 128x64 Double sided
 
 
 0
-8
+4
 4
 ergodonk_kicad_library
 OLED_4Pin_DS_64x128
@@ -91874,6 +91888,69 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_2u_Vertical
 0
 32
 6
+ergodonk_kicad_library
+amoeba-logo-small
+Imported from ../examples/amoeba-logo.svg
+svg2mod
+0
+0
+0
+ergodonk_kicad_library
+amoeba_executive_4pinn_conn
+
+
+0
+4
+4
+ergodonk_kicad_library
+amoeba_executive_5pinn_conn
+
+
+0
+5
+5
+ergodonk_kicad_library
+amoeba_executive_V1
+
+
+0
+11
+6
+ergodonk_kicad_library
+amoeba_executive_V2
+
+
+0
+11
+6
+ergodonk_kicad_library
+amoeba_executive_V3
+
+
+0
+13
+6
+ergodonk_kicad_library
+amoeba_executive_V4
+
+
+0
+11
+6
+ergodonk_kicad_library
+pad-arrow-round
+
+
+0
+0
+0
+ergodonk_kicad_library
+pad-arrow-square
+
+
+0
+0
+0
 ergodonk_kicad_library
 pimoroni_trackball
 Pimoroni I2C trackball breakout

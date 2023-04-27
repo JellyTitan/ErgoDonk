@@ -68,6 +68,8 @@
     )
 
     (stroke (width 0.2) (type default)) (fill none) (layer "F.SilkS") (tstamp d83e469d-34fa-4346-9cb0-61ad9fd2cd0e))
+  (fp_rect (start 5.01 -2.55) (end 20.01 12.45)
+    (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ae1865ee-f3ae-4799-a93e-db52c30da171))
   (fp_line (start -1.8 -1.8) (end -1.8 11.95)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 072387bc-147e-49fc-9e4c-081c893544b1))
   (fp_line (start -1.8 11.95) (end 1.8 11.95)
