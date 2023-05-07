@@ -90,7 +90,8 @@
   (pad "2" smd roundrect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25) (tstamp d7ec3db0-af16-451f-8075-805a0d0ab586))
   (pad "2" smd rect (at 2.7 0) (size 1.6 1.2) (layers "F.Cu") (tstamp c5e02873-de97-48fd-a49a-455a8251fe7a))
   (pad "2" smd rect (at 2.7 0) (size 1.6 1.2) (layers "B.Cu") (tstamp bb5752aa-79b4-4e3c-b9e9-6c18dc3cf0ff))
-  (pad "2" thru_hole circle (at 4 0) (size 1.65 1.65) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 77d701d7-b747-4d8b-9d7a-4ff9d6690f0c))
+  (pad "2" thru_hole circle (at 4 0) (size 1.65 1.65) (drill 1.1) (layers "*.Cu" "*.Mask")
+    (clearance 0.4) (tstamp 77d701d7-b747-4d8b-9d7a-4ff9d6690f0c))
   (group "" (id 8946e369-b72d-4f13-86cd-488ba30f70f9)
     (members
       1eaea4a7-cd8c-46cf-9411-e4d0357af9cb

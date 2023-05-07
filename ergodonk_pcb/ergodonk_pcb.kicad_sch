@@ -9454,7 +9454,7 @@
     (property "Value" "OLED" (at 153.67 228.6 0)
       (effects (font (size 1.1938 1.1938)) (justify left))
     )
-    (property "Footprint" "ergodonk_kicad_library:OLED_4Pin_DS_64x128" (at 137.16 224.79 0)
+    (property "Footprint" "ergodonk_kicad_library:OLED SSD1306 128x64 UNVERIFIED" (at 137.16 224.79 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 137.16 224.79 0)
