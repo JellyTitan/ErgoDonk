@@ -9,6 +9,6 @@
       (effects (font (size 0.29972 0.29972) (thickness 0.0762)))
     (tstamp 2547101a-5d15-42ac-8c96-53309015abef)
   )
-  (pad "" thru_hole circle (at -0.225 -0.275 90) (size 4.7 4.7) (drill 4.1) (layers "*.Cu" "*.Mask" "Dwgs.User")
+  (pad "" thru_hole circle (at 0 0 90) (size 4.7 4.7) (drill 4.1) (layers "*.Cu" "*.Mask" "Dwgs.User")
     (clearance 0.3) (tstamp 96464867-7ece-434c-a77b-433009d282a6))
 )
