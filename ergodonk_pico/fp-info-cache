@@ -1,4 +1,4 @@
-22989789222719682
+23032520402794630
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87814,6 +87814,132 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+SofleChoc
+Choc_MX_Hotswap_SK6812MiniE
+
+
+0
+41
+6
+SofleChoc
+DIODE Bender for 8mm SOFLE CHOC MX
+
+
+0
+0
+0
+SofleChoc
+D_SOD-123_DO-35_Hybrid_DoubleSided
+SOD-123
+SOD-123
+0
+10
+2
+SofleChoc
+HOLE_M2_TH
+
+
+0
+1
+0
+SofleChoc
+M2_HOLE_PCB
+
+
+0
+1
+0
+SofleChoc
+MJ-4PP-9_Choc_MX
+
+
+0
+8
+4
+SofleChoc
+OLED_4Pin
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
+SofleChoc
+OLED_4Pin_Choc_MX
+Connecteur 6 pins
+CONN DEV
+0
+8
+4
+SofleChoc
+OSHW-Logo_11.4x12mm_SilkScreen
+Open Source Hardware Logo
+Logo OSHW
+0
+0
+0
+SofleChoc
+Pimaroni_PinHeader_1x05_P2.54mm_Vertical
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+SofleChoc
+PinHeader_1x02_P2.54mm_jumper
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+2
+2
+SofleChoc
+PinHeader_1x03_P2.54mm_jumper
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+SofleChoc
+ProMicro_Choc_MX
+
+
+0
+48
+24
+SofleChoc
+R_I2C_bus
+Resitance 3 pas
+R
+0
+2
+2
+SofleChoc
+Reset bridge
+
+
+0
+3
+2
+SofleChoc
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+SofleChoc
+Trace break
+
+
+0
+0
+0
+SofleChoc
+pimoroni_trackball
+Pimoroni I2C trackball breakout
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -94899,6 +95025,13 @@ HOLE_M2_Post_throughhole_from_sofle
 1
 0
 ergodonk_kicad_library
+Hole from sofle for M2 posts gold rimmer
+
+
+0
+1
+0
+ergodonk_kicad_library
 Kailh-PG1425-X-Switch
 
 
@@ -94918,6 +95051,13 @@ Kailh-PG1425-X-Switch-reversible
 
 0
 4
+2
+ergodonk_kicad_library
+Level Shifter Bypass Jumper
+
+
+0
+2
 2
 ergodonk_kicad_library
 LongOvalCut
@@ -94947,6 +95087,13 @@ Low-Profile-Choc-MX_no_text_V2
 0
 3
 2
+ergodonk_kicad_library
+MJ-4PP-9 Sofle v3 tx-rx crossover
+
+
+0
+8
+4
 ergodonk_kicad_library
 MJ-4PP-9_CANTOR_KITCHEN_SINK
 
@@ -95029,7 +95176,7 @@ OLED SSD1306 128x64 UNVERIFIED
 
 
 0
-4
+8
 4
 ergodonk_kicad_library
 OLED_4Pin_DS_64x128
@@ -95045,6 +95192,13 @@ Pi5 ChocV1, V2, MX and Gateron low profile
 0
 6
 2
+ergodonk_kicad_library
+Pimaroni_PinHeader_1x05_P2.54mm_Vertical Sofle v3b
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
 ergodonk_kicad_library
 RPi_Pico_SMD_TH
 Through hole straight pin header, 2x20, 2.54mm pitch, double rows
@@ -95064,7 +95218,21 @@ RPi_Pico_SMD_TH - Junco -DS Sofle v3b
 Through hole straight pin header, 2x20, 2.54mm pitch, double rows
 Through hole pin header THT 2x20 2.54mm double row
 0
-120
+40
+40
+ergodonk_kicad_library
+RPi_Pico_SMD_TH - Junco -DS Sofle v3b v2
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+80
+40
+ergodonk_kicad_library
+RPi_Pico_SMD_TH - Junco -DS Sofle v3b v3
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+80
 40
 ergodonk_kicad_library
 RotaryEncoder_EC11_ergodonk_variant
@@ -95423,6 +95591,13 @@ sofle_choc_miniE
 0
 12
 6
+ergodonk_kicad_library
+trrs_jack2 5 pin from ergodash
+TRRS_Jack
+TRRS jack 4pin
+0
+5
+5
 ergodonk_kicad_library
 uxcell a14092600ux0438 solenoid
 
