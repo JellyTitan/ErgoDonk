@@ -51,6 +51,8 @@
     (stroke (width 0.12) (type solid)) (layer "Dwgs.User") (tstamp 54be8e66-27e2-4465-a405-68a89770dfe3))
   (fp_line (start 0 -5.22973) (end 0 -4.62973)
     (stroke (width 0.12) (type solid)) (layer "Dwgs.User") (tstamp 9bc371ad-5abe-4664-aa66-a04ac26465a5))
+  (fp_rect (start -7 -7) (end 7 7)
+    (stroke (width 0.12) (type default)) (fill none) (layer "Dwgs.User") (tstamp e70cb10e-9fd7-48fe-b7df-3dccec2178c3))
   (fp_line (start -1.7 -3.42973) (end -1.7 -6.42973)
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp 6dacdb95-8285-44e1-9c73-e9cdb182ad17))
   (fp_line (start 1.7 -6.42973) (end -1.7 -6.42973)
