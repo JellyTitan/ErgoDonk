@@ -1,4 +1,4 @@
-23032520402794630
+23042636851505331
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94941,6 +94941,20 @@ CherryMX_MidHeight_Hotswap_Mix_sizes_starter_template
 4
 2
 ergodonk_kicad_library
+Cherry_MX_DS_Hotswap_miniE_1U_sofle3b
+
+
+0
+30
+6
+ergodonk_kicad_library
+Cherry_MX_DS_Hotswap_miniE_1U_sofle3b_oneside
+
+
+0
+11
+6
+ergodonk_kicad_library
 Cherry_MX_MidHeight_Hotswap_1.25u_Vert_ergodonk
 
 
@@ -95229,6 +95243,20 @@ Through hole pin header THT 2x20 2.54mm double row
 40
 ergodonk_kicad_library
 RPi_Pico_SMD_TH - Junco -DS Sofle v3b v3
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+80
+40
+ergodonk_kicad_library
+RPi_Pico_SMD_TH - Junco -DS Sofle v3b v4
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+80
+40
+ergodonk_kicad_library
+RPi_Pico_SMD_TH_DS_Ergodonk_v1
 Through hole straight pin header, 2x20, 2.54mm pitch, double rows
 Through hole pin header THT 2x20 2.54mm double row
 0
@@ -95606,12 +95634,26 @@ uxcell a14092600ux0438 solenoid
 0
 0
 ergodonk_pico
+Chunky_2040_footprint_ergodonk_customs
+
+
+0
+4
+2
+ergodonk_pico
 D3_TH_SMD_v2
 Resitance 3 pas
 R
 0
 4
 2
+ergodonk_pico
+SK6812-MINI-E
+
+
+0
+9
+4
 kailh-pg1425-x-switch
 Kailh-PG1425-X-Switch
 
