@@ -1,8 +1,8 @@
 (footprint "V2_CherryMX_Hotswap" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
-  (fp_text reference "REF**" (at 0 8.4 180) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  (fp_text reference "REF**" (at 1.91 -1.67 180) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)) (justify right mirror))
     (tstamp 1e6f7c72-9932-4bb7-9b0c-2b0e39f0ea61)
   )
   (fp_text value "V2_CherryMX_Hotswap" (at 0 -2.91 unlocked) (layer "F.Fab") hide
