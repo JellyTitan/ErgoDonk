@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "YAAJ_WeAct_BlackPill_Part_Like_SWD_Breakout")(type "Legacy")(uri "${KIPRJMOD}/Kicad-STM32/Symbols/YAAJ_WeAct_BlackPill_Part_Like_SWD_Breakout.lib")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "MUR340S")(type "KiCad")(uri "${KIPRJMOD}/MUR340S/MUR340S.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "SofleKeyboard")(type "KiCad")(uri "${KIPRJMOD}/SofleKeyboard.kicad_sym")(options "")(descr ""))
+  (lib (name "AST1109MLTRQ")(type "Legacy")(uri "/Users/ryanrayneff/Documents/ergodonk/ergodonk_kicad_library/AST1109MLTRQ.lib")(options "")(descr ""))
+  (lib (name "red_herring_v2")(type "KiCad")(uri "/Users/ryanrayneff/Documents/redherring/v2/redherring_v2_kicad_libraries/red_herring_v2.kicad_sym")(options "")(descr ""))
+  (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/keebio-components/keebio.lib")(options "")(descr ""))
+)
