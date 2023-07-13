@@ -1,4 +1,4 @@
-23828002281612597
+23829691504976506
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98371,6 +98371,13 @@ Cherry_MX_DS_Hotswap_1U_oneside
 2
 2
 ergodonk_simple
+RPi_Pico_SMD_TH_DS_Simple_v1
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+ergodonk_simple
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u_LH_1u_RH
 
 
@@ -98389,8 +98396,8 @@ V2_CherryMX_DoubleSided_Hotswap_miniE_1.75u_LH_1u_RH
 
 
 0
-19
 6
+2
 ergodonk_simple
 V2_CherryMX_DoubleSided_Hotswap_miniE_1u_RH_ONLY
 
