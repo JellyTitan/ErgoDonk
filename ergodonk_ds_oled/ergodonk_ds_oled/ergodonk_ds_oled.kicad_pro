@@ -409,7 +409,8 @@
       "ergodonk_kicad_library",
       "SofleChoc",
       "Footprints",
-      "kbd"
+      "kbd",
+      "PCM_marbastlib-mx"
     ],
     "pinned_symbol_libs": []
   },
