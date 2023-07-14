@@ -20,7 +20,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": false,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": false,
       "pads": false,
       "text": false,
@@ -63,7 +63,7 @@
       35,
       36
     ],
-    "visible_layers": "fffffcf_ffffffff",
+    "visible_layers": "bffffef_ffffffff",
     "zone_display_mode": 1
   },
   "meta": {
