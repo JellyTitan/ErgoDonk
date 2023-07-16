@@ -1,4 +1,4 @@
-23839827271859473
+23848275113034572
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98294,6 +98294,13 @@ R
 4
 2
 ergodonk_pico
+Hole from sofle for M2 posts gold rimmer
+
+
+0
+1
+0
+ergodonk_pico
 MUR340S_IN4001_TH_HYBRID
 
 
@@ -98378,12 +98385,33 @@ Fairchild TO-220F-6L
 6
 6
 ergodonk_simple
+Hole from sofle for M2 posts gold rimmer
+
+
+0
+1
+0
+ergodonk_simple
 RPi_Pico_SMD_TH_DS_Simple_v1
 Through hole straight pin header, 2x20, 2.54mm pitch, double rows
 Through hole pin header THT 2x20 2.54mm double row
 0
 40
 40
+ergodonk_simple
+TO-220-3_Horizontal_TabDown
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+ergodonk_simple
+Tenting_Puck.kicad_mod_nocenter
+
+
+0
+4
+1
 ergodonk_simple
 V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u_LH_1u_RH
 
@@ -98461,6 +98489,13 @@ mousebites_1mm_5up
 0
 0
 0
+ergodonk_simple
+pimoroni_trackball_no_cutout
+Pimoroni I2C trackball breakout
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
 ergodonk_simple
 slot 24mm
 
