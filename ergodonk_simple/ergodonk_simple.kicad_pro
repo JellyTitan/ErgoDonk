@@ -175,7 +175,9 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.25,
+        0.5
       ],
       "via_dimensions": [
         {
@@ -464,7 +466,19 @@
     "netclass_patterns": [
       {
         "netclass": "Default",
-        "pattern": "row0"
+        "pattern": "*"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VCC"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VDD"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "GND"
       }
     ]
   },
