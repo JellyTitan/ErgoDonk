@@ -1,4 +1,4 @@
-23885535051880105
+23888915005536673
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98497,11 +98497,25 @@ Bourns Hollow Encoder V1
 3
 3
 ergodonk_simple
+CherryMX_Choc_Hotswap
+
+
+0
+4
+2
+ergodonk_simple
 Cherry_MX_DS_Hotswap_1U_oneside
 
 
 0
 2
+2
+ergodonk_simple
+Cherry_MX_DS_Hotswap_1U_sofle3b v3
+
+
+0
+6
 2
 ergodonk_simple
 Fairchild_TO-220F-6L

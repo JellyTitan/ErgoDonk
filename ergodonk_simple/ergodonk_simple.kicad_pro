@@ -488,7 +488,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "ergodonk_pcb5.dsn",
-      "step": "../test_prints/ergodonk_pcb_encoder_test_2.STEP",
+      "step": "../../../Desktop/ergodonk_pcb_encoder_test_5g.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
