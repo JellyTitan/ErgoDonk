@@ -1,6 +1,6 @@
 (footprint "V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u_RH_ONLY" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 -8.4) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b84c1217-8613-4c73-92eb-e4f671b49bc0)
