@@ -13,8 +13,10 @@ Experiments to date:
 
 
 ### Lessons learned from the ds simple prototype (todo)
-* Fix the stabalizers. Two screw-in PCB stabalizers won't fit next to each other on the thumb cluster - try the plate mount stabs instead.
+* Fix the stabilizers. Two screw-in PCB stabalizers won't fit next to each other on the thumb cluster - try the plate mount stabs instead.
+![Plate mount stabs mirrored](images/thumb_stabs.JPG)
+![Plate mount stabs oriented same](images/thumb_stabs2.JPG)
 * Take a closer look at routing by the rotary encoders - may be a short
 * The DS version is charged as two keyboards by JLCPCB - compare pricing for building as two seperate halves.
-* The RH Trackball has 2 seperate pcbs. Top one sent out for prototype, bottom needs to be made.
+* The RH Trackball has 2 separate pcbs. Top one sent out for prototype, bottom needs to be made.
 
