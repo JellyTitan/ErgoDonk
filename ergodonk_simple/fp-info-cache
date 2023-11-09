@@ -1,4 +1,4 @@
-23902443479215657
+23929504963663512
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98420,6 +98420,13 @@ Hole from sofle for M2 posts gold rimmer 2
 1
 0
 ergodonk_pico
+Hole from sofle for M2 posts gold rimmer 3
+
+
+0
+1
+0
+ergodonk_pico
 MUR340S_IN4001_TH_HYBRID
 
 
@@ -98497,7 +98504,21 @@ Bourns Hollow Encoder V1
 3
 3
 ergodonk_simple
+Bourns Hollow Encoder V1 2
+
+
+0
+3
+3
+ergodonk_simple
 Bourns Hollow Encoder high plate
+
+
+0
+30
+4
+ergodonk_simple
+Bourns Hollow Encoder high plate 2
 
 
 0
@@ -98511,7 +98532,21 @@ Bourns Hollow Encoder high plate_donk_holes
 27
 1
 ergodonk_simple
+Bourns Hollow Encoder high plate_donk_holes 2
+
+
+0
+27
+1
+ergodonk_simple
 CherryMX_Choc_Hotswap
+
+
+0
+6
+2
+ergodonk_simple
+CherryMX_Choc_Hotswap 2
 
 
 0
@@ -98526,6 +98561,13 @@ Cherry_MX_DS_Hotswap_1U_oneside
 2
 ergodonk_simple
 Cherry_MX_DS_Hotswap_1U_sofle3b v3
+
+
+0
+6
+2
+ergodonk_simple
+Cherry_MX_DS_Hotswap_1U_sofle3b v3 2
 
 
 0
@@ -98553,7 +98595,21 @@ Hole from sofle for M2 posts gold rimmer 2
 1
 0
 ergodonk_simple
+Hole from sofle for M2 posts gold rimmer 3
+
+
+0
+1
+0
+ergodonk_simple
 M2_Hole_fancy_for_bolt-on-plate
+
+
+0
+5
+1
+ergodonk_simple
+M2_Hole_fancy_for_bolt-on-plate 2
 
 
 0
@@ -98567,6 +98623,13 @@ M2_Hole_naked
 0
 0
 ergodonk_simple
+M2_Hole_naked 2
+
+
+0
+0
+0
+ergodonk_simple
 MUR340S_IN4001_TH_HYBRID
 
 
@@ -98574,7 +98637,21 @@ MUR340S_IN4001_TH_HYBRID
 6
 2
 ergodonk_simple
+MUR340S_IN4001_TH_HYBRID 2
+
+
+0
+6
+2
+ergodonk_simple
 Pimaroni_PinHeader_1x05_P2.54mm_Vertical Sofle v3b
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+ergodonk_simple
+Pimaroni_PinHeader_1x05_P2.54mm_Vertical Sofle v3b 2
 Through hole straight pin header, 1x05, 2.54mm pitch, single row
 Through hole pin header THT 1x05 2.54mm single row
 0
@@ -98595,7 +98672,21 @@ rotary encoder
 5
 5
 ergodonk_simple
+RotaryEncoder_EC11_ergodonk_variant 2
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+ergodonk_simple
 STAB_MX_P_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+2
+0
+ergodonk_simple
+STAB_MX_P_2u 2
 Footprint for Cherry Clip/Screw in type stabilizers, 2u
 
 0
@@ -98616,6 +98707,13 @@ TO-220-3 Horizontal RM 2.54mm
 3
 3
 ergodonk_simple
+TO-220-3_Horizontal_TabDown 3
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+ergodonk_simple
 Tenting_Puck.kicad_mod_nocenter
 
 
@@ -98624,6 +98722,13 @@ Tenting_Puck.kicad_mod_nocenter
 1
 ergodonk_simple
 Tenting_Puck.kicad_mod_nocenter 2
+
+
+0
+4
+1
+ergodonk_simple
+Tenting_Puck.kicad_mod_nocenter 3
 
 
 0
@@ -98715,6 +98820,13 @@ Through hole pin header THT 1x05 2.54mm single row
 5
 ergodonk_simple
 pimoroni_trackball_no_cutout 2
+Pimoroni I2C trackball breakout
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+ergodonk_simple
+pimoroni_trackball_no_cutout 3
 Pimoroni I2C trackball breakout
 Through hole pin header THT 1x05 2.54mm single row
 0
