@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="216.69mm"
+   height="156.78999mm"
+   viewBox="0 0 216.69 156.78999"
+   version="1.1"
+   id="svg2212"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="ergodonk_pcb-2mm_offset_3mm_cornersMiters.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2214"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.94753201"
+     inkscape:cx="237.98668"
+     inkscape:cy="399.4588"
+     inkscape:window-width="2560"
+     inkscape:window-height="1301"
+     inkscape:window-x="1728"
+     inkscape:window-y="332"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2209">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect1952"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="round"
+       unit="mm"
+       offset="2"
+       miter_limit="3"
+       attempt_force_join="true"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect2169"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="0"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(48.626889,-70.105001)">
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g989"
+       inkscape:transform-center-x="28649488"
+       inkscape:transform-center-y="-2203806.7"
+       transform="matrix(1e-6,0,0,1e-6,-48.601889,62.660688)"
+       inkscape:path-effect="#path-effect1952"
+       class="UnoptimicedTransforms">
+      <path
+         d="m 51190000,7519313 a 2000000,2000000 0 0 0 -1224429,418616.9 L 825570.54,45985930 A 2000000,2000000 0 0 0 50000,47567313 v 19050000 a 2000000,2000000 0 0 0 127295.2,702123 L 28747295,143521430 a 2000000,2000000 0 0 0 1699762,1290390 l 100527043,8725400 75387360,10602600 a 2000000,2000000 0 0 0 2259090,-1702270 l 7950000,-56590000 a 2000000,2000000 0 0 0 19450,-278240 V 42569313 a 2000000,2000000 0 0 0 -336170,-1109807 L 194208830,8409506 a 2000000,2000000 0 0 0 -1663830,-890193 z"
+         id="path991"
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:150000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:original-d="m 206640000,162159310 7950000,-56590000 V 42569313 L 192545000,9519313 H 51190000 L 2050000,47567313 v 19050000 l 28570000,76201997 100580000,8730000 75440000,10610000"
+         inkscape:path-effect="#path-effect2169" />
+    </g>
+  </g>
+</svg>

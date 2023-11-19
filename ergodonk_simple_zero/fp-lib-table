@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Kicad-STM32")(type "KiCad")(uri "${KIPRJMOD}/Kicad-STM32")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "kicad-footprints")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/Kicad-STM32/Footprints")(options "")(descr ""))
+  (lib (name "ergodonk_kicad_library")(type "KiCad")(uri "/Users/ryanrayneff/Documents/ergodonk/ergodonk_kicad_library")(options "")(descr ""))
+  (lib (name "MUR340S")(type "KiCad")(uri "${KIPRJMOD}/MUR340S")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "KiCad-RP-Pico")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico")(options "")(descr ""))
+  (lib (name "SofleChoc")(type "KiCad")(uri "${KIPRJMOD}/SofleChoc.pretty")(options "")(descr ""))
+)

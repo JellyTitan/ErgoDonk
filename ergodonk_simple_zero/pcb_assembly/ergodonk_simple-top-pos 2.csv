@@ -1,0 +1,133 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"D0","D","D_SOD-123_DO-35_Hybrid_DoubleSided",79.199997,19.528068,180.000000,top
+"D1","D","D_SOD-123_DO-35_Hybrid_DoubleSided",61.399997,51.578068,180.000000,top
+"D2","D","D_SOD-123_DO-35_Hybrid_DoubleSided",42.099997,51.578068,180.000000,top
+"D3","D","D_SOD-123_DO-35_Hybrid_DoubleSided",19.299997,51.578068,180.000000,top
+"D4","D","D_SOD-123_DO-35_Hybrid_DoubleSided",2.079997,50.641068,180.000000,top
+"D5","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-18.800003,51.578068,180.000000,top
+"D6","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-37.850003,51.578068,180.000000,top
+"D7","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-61.150003,51.578068,180.000000,top
+"D08_RH10","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-104.775003,14.528068,180.000000,top
+"D10","D","D_SOD-123_DO-35_Hybrid_DoubleSided",79.199997,0.478068,180.000000,top
+"D11","D","D_SOD-123_DO-35_Hybrid_DoubleSided",57.149997,19.528068,180.000000,top
+"D12","D","D_SOD-123_DO-35_Hybrid_DoubleSided",38.099997,22.028068,180.000000,top
+"D13","D","D_SOD-123_DO-35_Hybrid_DoubleSided",19.049997,24.528068,180.000000,top
+"D14","D","D_SOD-123_DO-35_Hybrid_DoubleSided",2.229997,28.641068,180.000000,top
+"D15","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-19.050003,25.528068,180.000000,top
+"D16","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-38.100003,20.028068,180.000000,top
+"D17","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-57.150003,14.528068,180.000000,top
+"D18","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-11.200003,65.131068,90.000000,top
+"D18_RH10","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-76.200003,12.741068,180.000000,top
+"D20","D","D_SOD-123_DO-35_Hybrid_DoubleSided",79.199997,-18.571932,180.000000,top
+"D21","D","D_SOD-123_DO-35_Hybrid_DoubleSided",57.149997,0.478068,180.000000,top
+"D22","D","D_SOD-123_DO-35_Hybrid_DoubleSided",38.099997,2.978068,180.000000,top
+"D23","D","D_SOD-123_DO-35_Hybrid_DoubleSided",19.049997,5.478068,180.000000,top
+"D24","D","D_SOD-123_DO-35_Hybrid_DoubleSided",2.159997,9.601068,180.000000,top
+"D25","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-19.050003,6.478068,180.000000,top
+"D26","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-38.100003,0.978068,180.000000,top
+"D27","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-59.490003,-4.521932,180.000000,top
+"D28_RH10","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-101.190003,-10.148932,180.000000,top
+"D30","D","D_SOD-123_DO-35_Hybrid_DoubleSided",76.669997,-41.968932,172.000000,top
+"D31","D","D_SOD-123_DO-35_Hybrid_DoubleSided",57.149997,-18.571932,180.000000,top
+"D32","D","D_SOD-123_DO-35_Hybrid_DoubleSided",38.099997,-16.071932,180.000000,top
+"D33","D","D_SOD-123_DO-35_Hybrid_DoubleSided",19.049997,-13.571932,180.000000,top
+"D34","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-0.000003,-8.571932,180.000000,top
+"D35","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-19.050003,-12.571932,180.000000,top
+"D36","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-38.100003,-18.071932,180.000000,top
+"D37","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-68.520003,-23.571932,180.000000,top
+"D38_RH10","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-82.890003,-4.568932,180.000000,top
+"D40","D","D_SOD-123_DO-35_Hybrid_DoubleSided",74.009997,-60.798932,172.000000,top
+"D41","D","D_SOD-123_DO-35_Hybrid_DoubleSided",57.179997,-39.518932,180.000000,top
+"D42","D","D_SOD-123_DO-35_Hybrid_DoubleSided",38.099997,-35.121932,180.000000,top
+"D43","D","D_SOD-123_DO-35_Hybrid_DoubleSided",19.049997,-32.621932,180.000000,top
+"D44","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-0.000003,-27.621932,180.000000,top
+"D45","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-19.050003,-31.621932,180.000000,top
+"D46","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-38.100003,-37.121932,180.000000,top
+"D47","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-71.340003,-42.621932,180.000000,top
+"D48_RH10","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-101.030003,-12.968932,180.000000,top
+"D50","D","D_SOD-123_DO-35_Hybrid_DoubleSided",71.513392,-79.698932,172.000000,top
+"D51","D","D_SOD-123_DO-35_Hybrid_DoubleSided",53.869997,-67.578932,172.000000,top
+"D52","D","D_SOD-123_DO-35_Hybrid_DoubleSided",34.869997,-64.928932,172.000000,top
+"D53","D","D_SOD-123_DO-35_Hybrid_DoubleSided",34.491457,-67.258932,172.000000,top
+"D54","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-4.380003,-29.858932,180.000000,top
+"D55","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-23.900003,-33.878932,180.000000,top
+"D56","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-38.100003,-56.171932,180.000000,top
+"D57","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-59.531253,-61.671932,180.000000,top
+"D58","D","D_SOD-123_DO-35_Hybrid_DoubleSided",-83.343753,-61.671932,180.000000,top
+"D_SOL_1","MUR340S","MUR340S_IN4001_TH_HYBRID",-47.240003,46.901068,180.000000,top
+"H11","MountingHole","M2_Hole_fancy_for_bolt-on-plate",18.469997,-41.498932,0.000000,top
+"H12","MountingHole","M2_Hole_fancy_for_bolt-on-plate",-26.530663,-60.518272,0.000000,top
+"H13","MountingHole","M2_Hole_fancy_for_bolt-on-plate",-83.050663,-9.519593,0.000000,top
+"H14","MountingHole","M2_Hole_fancy_for_bolt-on-plate",-103.590663,-28.448272,0.000000,top
+"H15","MountingHole","M2_Hole_fancy_for_bolt-on-plate",-118.179343,9.101728,0.000000,top
+"H16","MountingHole","M2_Hole_fancy_for_bolt-on-plate",-92.039343,43.701728,0.000000,top
+"H17","MountingHole","M2_Hole_fancy_for_bolt-on-plate",-38.040003,44.421068,0.000000,top
+"H18","MountingHole","M2_Hole_fancy_for_bolt-on-plate",-49.650663,67.611728,0.000000,top
+"H19","MountingHole","M2_Hole_fancy_for_bolt-on-plate",30.669997,67.611728,0.000000,top
+"H20","MountingHole","M2_Hole_fancy_for_bolt-on-plate",80.399337,41.760407,0.000000,top
+"H21","MountingHole","M2_Hole_fancy_for_bolt-on-plate",86.199337,-22.178272,0.000000,top
+"H22","MountingHole","M2_Hole_fancy_for_bolt-on-plate",17.759997,46.771068,0.000000,top
+"H23","MountingHole","M2_Hole_fancy_for_bolt-on-plate",-75.050003,38.471068,0.000000,top
+"H24","MountingHole","M2_Hole_fancy_for_bolt-on-plate",-92.669343,-41.368272,0.000000,top
+"H25","MountingHole","M2_Hole_fancy_for_bolt-on-plate",64.939337,-38.588272,0.000000,top
+"J10","Pimaroni Trackball","Pimaroni_PinHeader_1x05_P2.54mm_Vertical Sofle v3b",13.349997,-37.418932,90.000000,top
+"J11","4PIN","MJ-4PP-9_CANTOR_KITCHEN_SINK",83.065899,51.762799,-60.600000,top
+"J12","Conn_01x08_Socket","PinHeader_1x08_P2.54mm_Vertical",-31.380003,45.601068,90.000000,top
+"REF**","slot 24mm","slot 24mm",-93.880003,-25.468932,-12.200000,top
+"REF**","slot 24mm","slot 24mm",-88.596891,-1.033572,-12.200000,top
+"REF**","Tenting Puck","Tenting_Puck.kicad_mod_nocenter",9.524997,-4.738932,0.000000,top
+"REF**","slot 24mm","slot 24mm",-77.206502,51.649065,-12.200000,top
+"REF**","slot 24mm","slot 24mm",-82.489614,27.213704,-12.200000,top
+"S1","Solenoid","uxcell a14092600ux0438 solenoid",54.972497,44.971068,0.000000,top
+"SW0","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",79.199997,28.103068,180.000000,top
+"SW1","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",61.149997,60.153068,180.000000,top
+"SW2","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",42.099997,60.153068,180.000000,top
+"SW3","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",19.049997,60.153068,180.000000,top
+"SW4","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-0.000003,60.153068,-90.000000,top
+"SW5","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-19.050003,60.153068,180.000000,top
+"SW6","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-38.100003,60.153068,180.000000,top
+"SW7","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-61.150003,60.153068,180.000000,top
+"SW08_RH10","SW_PUSH_LED","V2_CherryMX_DoubleSided_Hotswap_miniE_2u_RH_ONLY",-104.775003,23.103068,0.000000,top
+"SW10","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",79.199997,9.053068,180.000000,top
+"SW11","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",57.149997,28.103068,180.000000,top
+"SW12","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",38.099997,30.603068,180.000000,top
+"SW13","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",19.049997,33.103068,180.000000,top
+"SW14","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-0.000003,38.103068,-90.000000,top
+"SW15","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-19.050003,34.103068,180.000000,top
+"SW16","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-38.100003,28.603068,180.000000,top
+"SW17","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-57.150003,23.103068,180.000000,top
+"SW18_RH10","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_oneside",-76.200003,23.103068,-90.000000,top
+"SW20","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",79.199997,-9.996932,180.000000,top
+"SW21","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",57.149997,9.053068,180.000000,top
+"SW22","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",38.099997,11.553068,180.000000,top
+"SW23","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",19.049997,14.053068,180.000000,top
+"SW24","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-0.000003,19.053068,-90.000000,top
+"SW25","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-19.050003,15.053068,180.000000,top
+"SW26","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-38.100003,9.553068,180.000000,top
+"SW27","SW_PUSH_LED","V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u_LH_1u_RH",-61.912503,4.053068,0.000000,top
+"SW28_RH10","SW_PUSH_LED","V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u_RH_ONLY",-100.012503,4.053068,0.000000,top
+"SW30","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",77.967070,-33.473007,172.000000,top
+"SW31","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",57.149997,-9.996932,180.000000,top
+"SW32","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",38.099997,-7.496932,180.000000,top
+"SW33","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",19.049997,-4.996932,180.000000,top
+"SW34","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-0.000003,0.003068,180.000000,top
+"SW35","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-19.050003,-3.996932,180.000000,top
+"SW36","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-38.100003,-9.496932,180.000000,top
+"SW37","SW_PUSH_LED","V2_CherryMX_DoubleSided_Hotswap_miniE_1.75u_LH_1u_RH",-64.293753,-14.996932,0.000000,top
+"SW38_RH10","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_oneside",-76.200003,4.053068,180.000000,top
+"SW40","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",75.315822,-52.337613,172.000000,top
+"SW42","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",38.099997,-26.546932,180.000000,top
+"SW43","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",19.049997,-24.046932,180.000000,top
+"SW44","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-0.000003,-19.046932,180.000000,top
+"SW45","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-19.050003,-23.046932,180.000000,top
+"SW46","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-38.100003,-28.546932,180.000000,top
+"SW47","SW_PUSH_LED","V2_CherryMX_DoubleSided_Hotswap_miniE_2.25u_LH_2.75u_RH",-73.818753,-33.722482,0.000000,top
+"SW48_RH10","SW_PUSH_LED","V2_CherryMX_DoubleSided_Hotswap_miniE_2.25u_RH_ONLY",-88.106253,-14.996932,0.000000,top
+"SW50","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",72.664575,-71.202220,172.000000,top
+"SW51","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",55.125592,-59.118669,172.000000,top
+"SW52","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",36.261636,-56.468367,172.000000,top
+"SW54","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-0.000003,-38.096932,0.000000,top
+"SW55","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-19.050003,-42.096932,0.000000,top
+"SW56","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-38.100003,-47.596932,180.000000,top
+"SW57","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-59.531253,-53.096932,180.000000,top
+"SW58","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",-83.343753,-53.096932,180.000000,top

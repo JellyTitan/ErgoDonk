@@ -1,0 +1,8 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J_SOL_1","Conn_01x02_Female","PinHeader_1x02_P2.54mm_Vertical",-47.085003,41.331068,-90.000000,bottom
+"Q1","TIP120","TO-220-3_Horizontal_TabDown",-51.100003,41.611068,-90.000000,bottom
+"R2","1k","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",-69.760003,47.141068,0.000000,bottom
+"SW18","RotaryEncoder","Bourns Hollow Encoder high plate_donk_holes",-3.323878,-60.946029,-45.000000,bottom
+"SW53","SW_PUSH_LED","Cherry_MX_DS_Hotswap_1U_sofle3b v3",16.402161,-60.890401,82.000000,bottom
+"SWLH_ROT1","RotaryEncoder_Switch","RotaryEncoder_EC11_ergodonk_variant",57.149997,-29.046932,-90.000000,bottom
+"U11","Pico","RPi_Pico_SMD_TH_DS_Simple_v1",0.072997,45.023068,180.000000,bottom
