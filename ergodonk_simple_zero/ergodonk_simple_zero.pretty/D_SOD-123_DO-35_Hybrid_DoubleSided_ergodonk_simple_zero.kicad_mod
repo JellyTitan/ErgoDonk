@@ -1,4 +1,4 @@
-(footprint "D_SOD-123_DO-35_Hybrid_DoubleSided" (version 20221018) (generator pcbnew)
+(footprint "D_SOD-123_DO-35_Hybrid_DoubleSided_ergodonk_simple_zero" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "SOD-123")
   (tags "SOD-123")
@@ -7,7 +7,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify right bottom mirror))
     (tstamp d97d57e2-cd0c-47d9-a3a7-0038b4c66076)
   )
-  (fp_text value "D_SOD-123_DO-35_Hybrid_DoubleSided" (at 17.18 5.45) (layer "F.Fab") hide
+  (fp_text value "D_SOD-123_DO-35_Hybrid_DoubleSided_ergodonk_simple_zero" (at 17.18 5.45) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5e5b7131-0e76-4006-8507-33b92ae014d6)
   )

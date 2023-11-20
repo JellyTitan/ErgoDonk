@@ -5,9 +5,13 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 252c0dba-007e-4850-ba7c-9713c81bdcbd)
   )
-  (fp_text value "KEY_SWITCH" (at -7.4 -8.1) (layer "F.Fab") hide
+  (fp_text value "KEY_SWITCH" (at 0.21 -0.03) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9100d3f4-19c8-40fd-9533-00e1a6246ca7)
+  )
+  (fp_text user "${REFERENCE}" (at 9.1 8.17 180 unlocked) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)) (justify left))
+    (tstamp 75c47bcb-6bd4-4226-8fd6-07a035e7999e)
   )
   (fp_line (start -4.8 -6.804) (end 3.825 -6.804)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 7b9f4dfd-64e5-406f-b675-5b09dd6333d8))
