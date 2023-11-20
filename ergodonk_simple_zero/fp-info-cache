@@ -1,4 +1,4 @@
-23984203820774935
+23997723567147218
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53484,7 +53484,56 @@ CherryMX_Choc_Hotswap_ergodonk_simple_zero_56
 
 
 0
-17
+20
+2
+Ergodonk_simple_zero
+CherryMX_Choc_Hotswap_ergodonk_simple_zero_SS
+
+
+0
+4
+2
+Ergodonk_simple_zero
+CherryMX_Choc_Hotswap_ergodonk_simple_zero_SS_1.5U
+
+
+0
+4
+2
+Ergodonk_simple_zero
+CherryMX_Choc_Hotswap_ergodonk_simple_zero_SS_1.5uLH_1uRH
+
+
+0
+8
+2
+Ergodonk_simple_zero
+CherryMX_Choc_Hotswap_ergodonk_simple_zero_SS_1.75uLH_1uRH
+
+
+0
+8
+2
+Ergodonk_simple_zero
+CherryMX_Choc_Hotswap_ergodonk_simple_zero_SS_2.25U
+
+
+0
+4
+2
+Ergodonk_simple_zero
+CherryMX_Choc_Hotswap_ergodonk_simple_zero_SS_2.25uLH 2.75uRH
+
+
+0
+8
+2
+Ergodonk_simple_zero
+CherryMX_Choc_Hotswap_ergodonk_simple_zero_SS_2U
+
+
+0
+4
 2
 Ergodonk_simple_zero
 Cherry_MX_DS_Hotswap_1U_oneside
@@ -90824,153 +90873,160 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
-SofleChoc
-1pin_conn
-Resitance 3 pas
-R
-0
-1
-1
-SofleChoc
-3x1header
+Sofle_Pico
+Cherry_MX_DS_Hotswap_miniE_1U_v3.03
 
 
 0
-3
-3
-SofleChoc
-Choc_Hotswap_Backup
-
-
-0
-4
-2
-SofleChoc
-Choc_Hotswap_SK6812MiniE
-
-
-0
-12
+30
 6
-SofleChoc
-HOLE_M2_TH
+Sofle_Pico
+Cherry_MX_DS_Hotswap_miniE_1U_v3.5
+
+
+0
+28
+6
+Sofle_Pico
+D_SOD-123_DO-35_Hybrid_DoubleSided_V2
+SOD-123
+SOD-123
+0
+10
+2
+Sofle_Pico
+Hole from sofle for M2 posts gold rimmer
 
 
 0
 1
 0
-SofleChoc
-Jumper
-
-
-0
-2
-2
-SofleChoc
-Kailh_socket_PG1350_reversible
-Kailh "Choc" PG1350 keyswitch reversible socket mount
-kailh,choc
-0
-12
-4
-SofleChoc
-Kailh_socket_PG1350_reversible_backup
-Kailh "Choc" PG1350 keyswitch reversible socket mount
-kailh,choc
-0
-4
-2
-SofleChoc
-LED
-
-
-0
-3
-3
-SofleChoc
-M2_HOLE_PCB
+Sofle_Pico
+Hole from sofle for M2 posts gold rimmer wide-keyplate-hole
 
 
 0
 1
 0
-SofleChoc
+Sofle_Pico
+Level Shifter Bypass Jumper
+
+
+0
+2
+2
+Sofle_Pico
 MJ-4PP-9
 
 
 0
 8
 4
-SofleChoc
-OLED_4Pin
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-SofleChoc
-ProMicro
+Sofle_Pico
+OLED SSD1306 128x64 UNVERIFIED v3b
 
 
 0
-48
-24
-SofleChoc
-RESISTOR_mini
-Resitance 3 pas
-R
+16
+4
+Sofle_Pico
+Pimaroni_PinHeader_1x05_P2.54mm_Vertical Sofle v3b
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
 0
-2
-2
-SofleChoc
+5
+5
+Sofle_Pico
+PinHeader_1x05_P2.54mm_Vertical
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+Sofle_Pico
+RPi_Pico_SMD_TH - Junco -DS Sofle v3b v3 nohole
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+80
+40
+Sofle_Pico
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
 0
 7
 6
-SofleChoc
-SK6812MINI_and_cherry
+Sofle_Pico
+SN74AHCT1G125 - Junco
+SN74AHCT1G125 Buffer Gate SOT-23
+level shifter
+0
+5
+5
+Sofle_Pico
+Sofle Pico Logo
 
 
 0
-12
-6
-SofleChoc
-SK6812MINI_underglow_dev
+0
+0
+Sofle_Pico
+Sofle Pico Logo embed
 
 
 0
-8
+0
+0
+Sofle_Pico
+Sofle Pico Logo text only
+
+
+0
+0
+0
+Sofle_Pico
+Sofle Pico logo w text
+
+
+0
+0
+0
+Sofle_Pico
+Sofle Pico text inverted
+
+
+0
+0
+0
+Sofle_Pico
+Sofle SK6803-DS
+
+
+0
+24
 4
-SofleChoc
-TACT_SWITCH_TVBP06
+Sofle_Pico
+Tenting_Puck.kicad_mod_nocenter_v2
 
 
-0
-2
-2
-SofleChoc
-crkbd-diode
-Resitance 3 pas
-R
 0
 4
-2
-SofleChoc
-gecko-logo
+1
+Sofle_Pico
+rp2040-zero DS
+
+
+0
+66
+33
+Sofle_Pico
+uxcell a14092600ux0438 solenoid
 
 
 0
 0
 0
-SofleChoc
-jumper_data
-
-
-0
-2
-2
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -98874,13 +98930,13 @@ V2_CherryMX_KailhV2_solder
 0
 5
 2
-ergodonk_pico_library
-V2_CherryMX_DS_Hotswap_miniE_1U_SEED_RH
+ergodonk_simple
+CherryMX_Choc_Hotswap_ergodonk_simple_zero_SS_2.25uLH 2.75uRH
 
 
 0
-11
-6
+4
+2
 ergodonk_simple
 rp2040 Zero DS w header pins
 
