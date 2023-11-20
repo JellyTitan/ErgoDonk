@@ -423,7 +423,8 @@
       "Footprints",
       "kbd",
       "PCM_marbastlib-mx",
-      "ergodonk_simple"
+      "ergodonk_simple",
+      "Ergodonk_simple_zero"
     ],
     "pinned_symbol_libs": []
   },

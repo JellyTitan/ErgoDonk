@@ -10,4 +10,5 @@
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
   (lib (name "KiCad-RP-Pico")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico")(options "")(descr ""))
   (lib (name "SofleChoc")(type "KiCad")(uri "${KIPRJMOD}/SofleChoc.pretty")(options "")(descr ""))
+  (lib (name "Ergodonk_simple_zero")(type "KiCad")(uri "${KIPRJMOD}/ergodonk_simple_zero.pretty")(options "")(descr ""))
 )

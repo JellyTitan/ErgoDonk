@@ -1,4 +1,4 @@
-23897505888567876
+23984203820774935
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53416,6 +53416,363 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+Ergodonk_simple_zero
+Bourns Hollow Encoder V1
+
+
+0
+3
+3
+Ergodonk_simple_zero
+Bourns Hollow Encoder V1 2
+
+
+0
+3
+3
+Ergodonk_simple_zero
+Bourns Hollow Encoder high plate
+
+
+0
+30
+4
+Ergodonk_simple_zero
+Bourns Hollow Encoder high plate 2
+
+
+0
+30
+4
+Ergodonk_simple_zero
+Bourns Hollow Encoder high plate_donk_holes
+
+
+0
+27
+1
+Ergodonk_simple_zero
+Bourns Hollow Encoder high plate_donk_holes 2
+
+
+0
+27
+1
+Ergodonk_simple_zero
+CherryMX_Choc_Hotswap
+
+
+0
+6
+2
+Ergodonk_simple_zero
+CherryMX_Choc_Hotswap 2
+
+
+0
+6
+2
+Ergodonk_simple_zero
+CherryMX_Choc_Hotswap_ergodonk_simple_zero
+
+
+0
+15
+2
+Ergodonk_simple_zero
+CherryMX_Choc_Hotswap_ergodonk_simple_zero_56
+
+
+0
+17
+2
+Ergodonk_simple_zero
+Cherry_MX_DS_Hotswap_1U_oneside
+
+
+0
+2
+2
+Ergodonk_simple_zero
+Cherry_MX_DS_Hotswap_1U_sofle3b v3
+
+
+0
+6
+2
+Ergodonk_simple_zero
+Cherry_MX_DS_Hotswap_1U_sofle3b v3 2
+
+
+0
+6
+2
+Ergodonk_simple_zero
+Fairchild_TO-220F-6L
+Fairchild TO-220F-6L, http://www.mouser.com/ds/2/149/FSL136MRT-113334.pdf
+Fairchild TO-220F-6L
+0
+6
+6
+Ergodonk_simple_zero
+Hole from sofle for M2 posts gold rimmer
+
+
+0
+1
+0
+Ergodonk_simple_zero
+Hole from sofle for M2 posts gold rimmer 2
+
+
+0
+1
+0
+Ergodonk_simple_zero
+Hole from sofle for M2 posts gold rimmer 3
+
+
+0
+1
+0
+Ergodonk_simple_zero
+M2_Hole_fancy_for_bolt-on-plate
+
+
+0
+5
+1
+Ergodonk_simple_zero
+M2_Hole_fancy_for_bolt-on-plate 2
+
+
+0
+5
+1
+Ergodonk_simple_zero
+M2_Hole_naked
+
+
+0
+0
+0
+Ergodonk_simple_zero
+M2_Hole_naked 2
+
+
+0
+0
+0
+Ergodonk_simple_zero
+MUR340S_IN4001_TH_HYBRID
+
+
+0
+6
+2
+Ergodonk_simple_zero
+MUR340S_IN4001_TH_HYBRID 2
+
+
+0
+6
+2
+Ergodonk_simple_zero
+Pimaroni_PinHeader_1x05_P2.54mm_Vertical Sofle v3b
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+Ergodonk_simple_zero
+Pimaroni_PinHeader_1x05_P2.54mm_Vertical Sofle v3b 2
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+Ergodonk_simple_zero
+RPi_Pico_SMD_TH_DS_Simple_v1
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+Ergodonk_simple_zero
+RotaryEncoder_EC11_ergodonk_variant
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+Ergodonk_simple_zero
+RotaryEncoder_EC11_ergodonk_variant 2
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+Ergodonk_simple_zero
+STAB_MX_P_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+2
+0
+Ergodonk_simple_zero
+STAB_MX_P_2u 2
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+2
+0
+Ergodonk_simple_zero
+TO-220-3_Horizontal_TabDown
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+Ergodonk_simple_zero
+TO-220-3_Horizontal_TabDown 2
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+Ergodonk_simple_zero
+TO-220-3_Horizontal_TabDown 3
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+Ergodonk_simple_zero
+Tenting_Puck.kicad_mod_nocenter
+
+
+0
+4
+1
+Ergodonk_simple_zero
+Tenting_Puck.kicad_mod_nocenter 2
+
+
+0
+4
+1
+Ergodonk_simple_zero
+Tenting_Puck.kicad_mod_nocenter 3
+
+
+0
+4
+1
+Ergodonk_simple_zero
+V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u_LH_1u_RH
+
+
+0
+6
+2
+Ergodonk_simple_zero
+V2_CherryMX_DoubleSided_Hotswap_miniE_1.5u_RH_ONLY
+
+
+0
+2
+2
+Ergodonk_simple_zero
+V2_CherryMX_DoubleSided_Hotswap_miniE_1.75u_LH_1u_RH
+
+
+0
+6
+2
+Ergodonk_simple_zero
+V2_CherryMX_DoubleSided_Hotswap_miniE_1u_RH_ONLY
+
+
+0
+6
+6
+Ergodonk_simple_zero
+V2_CherryMX_DoubleSided_Hotswap_miniE_2.25u_LH_2.75u_RH
+
+
+0
+6
+2
+Ergodonk_simple_zero
+V2_CherryMX_DoubleSided_Hotswap_miniE_2.25u_RH_ONLY
+
+
+0
+2
+2
+Ergodonk_simple_zero
+V2_CherryMX_DoubleSided_Hotswap_miniE_2u_RH_ONLY
+
+
+0
+2
+2
+Ergodonk_simple_zero
+mousebites_1mm
+
+
+0
+0
+0
+Ergodonk_simple_zero
+mousebites_1mm_3up
+
+
+0
+0
+0
+Ergodonk_simple_zero
+mousebites_1mm_4up
+
+
+0
+0
+0
+Ergodonk_simple_zero
+mousebites_1mm_5up
+
+
+0
+0
+0
+Ergodonk_simple_zero
+pimoroni_trackball_no_cutout
+Pimoroni I2C trackball breakout
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+Ergodonk_simple_zero
+pimoroni_trackball_no_cutout 2
+Pimoroni I2C trackball breakout
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+Ergodonk_simple_zero
+pimoroni_trackball_no_cutout 3
+Pimoroni I2C trackball breakout
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+Ergodonk_simple_zero
+slot 24mm
+
+
+0
+0
+0
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -97766,7 +98123,7 @@ Level Shifter Bypass Jumper simple_zero
 
 
 0
-4
+5
 3
 ergodonk_kicad_library
 LongOvalCut
